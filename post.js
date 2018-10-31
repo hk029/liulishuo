@@ -23,9 +23,21 @@ req = async () => {
 				let title = titleReg.exec(body)[1];
 				log(title);
 				// 第一部分原文, 第二部分quick scan， 第三部分生词
-				let arr = body.split("------");
+				let arr = body.split(/---+/g);
 				let layer = [];
-				await queryIssue.editIssue(day, title, arr[0]);
+				try {
+					await queryIssue.getIssue(day);
+				} catch (err) {
+					await queryIssue.addIssue(title, arr[0]);
+				}
+				// await queryIssue.editIssue(day, title, arr[0]);
+				let scan = arr[1];
+				scan =
+					scan.replace(/<u>(.*?)<\/u>/g, (res, word) =>
+						"_".repeat(word.length / 1.5)
+					) +
+					"\n\n" +
+					scan;
 				layer[2] = await queryIssue.addComment(day, arr[1]);
 				layer[3] = await queryIssue.addComment(
 					day,
@@ -35,7 +47,7 @@ req = async () => {
 				let text = `> 食用方法：
         > - 原文看1楼
         > - 快速浏览[看2楼](${layer[2].html_url})
-        > - 脑图[[看3楼](${layer[3].html_url})
+        > - 脑图[看3楼](${layer[3].html_url})
         > - 生词[看4楼](${layer[4].html_url})
         > - 后续楼层欢迎扩展3楼没提及的自己的笔记（这里也算给大家做备份，方便大家检索，后续也会汇总`;
 				await queryIssue.editIssue(
@@ -76,6 +88,10 @@ class Issue {
 		return this.query("POST", `${ISSUE.issues}`, { title, body });
 	}
 
+	getIssue(id) {
+		return this.query("GET", `${ISSUE.issues}/${id}`);
+	}
+
 	editIssue(id, title, body) {
 		return this.query("PATCH", `${ISSUE.issues}/${id}`, { title, body });
 	}
@@ -91,7 +107,7 @@ class Issue {
 			url,
 			// "?access_token=b0fab3259b06e399c9bb6889fe345760ec952df5",
 			headers: {
-				Authorization: "token 7de50bb4b2f82a5929c74558c65cf4e19eb98daa",
+				Authorization: "token 752982cd32e5153e288b8385c3f382302a8c2ce4",
 				"Content-Type": "application/json",
 				"User-Agent": "fake-client"
 			},
