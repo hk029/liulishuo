@@ -32,28 +32,28 @@ req = async () => {
 				}
 				// await queryIssue.editIssue(day, title, arr[0]);
 				let scan = arr[1];
-				scan =
+                scan =
 					scan.replace(/<u>(.*?)<\/u>/g, (res, word) =>
 						"_".repeat(word.length / 1.5)
 					) +
-					"\n\n" +
+					"\n\n" + scan.replace('# quick scan', '');
 					scan;
-				layer[2] = await queryIssue.addComment(day, arr[1]);
+				layer[2] = await queryIssue.addComment(day, scan);
 				layer[3] = await queryIssue.addComment(
 					day,
 					`![](https://raw.githubusercontent.com/hk029/liulishuo/master/mindmap/day${day}.png)`
 				);
 				layer[4] = await queryIssue.addComment(day, arr[2]);
 				let text = `> 食用方法：
-        > - 原文看1楼
-        > - 快速浏览[看2楼](${layer[2].html_url})
-        > - 脑图[看3楼](${layer[3].html_url})
-        > - 生词[看4楼](${layer[4].html_url})
-        > - 后续楼层欢迎扩展3楼没提及的自己的笔记（这里也算给大家做备份，方便大家检索，后续也会汇总`;
+> - 原文看1楼
+> - 快速浏览[看2楼](${layer[2].html_url})
+> - 脑图[看3楼](${layer[3].html_url})
+> - 生词[看4楼](${layer[4].html_url})
+> - 后续楼层欢迎扩展3楼没提及的自己的笔记（这里也算给大家做备份，方便大家检索，后续也会汇总`;
 				await queryIssue.editIssue(
 					day,
 					title,
-					arr[0].replace("syff", text)
+					arr[0].replace("## 原文", text + "\n## 原文")
 				);
 			}
 		}
@@ -107,7 +107,7 @@ class Issue {
 			url,
 			// "?access_token=b0fab3259b06e399c9bb6889fe345760ec952df5",
 			headers: {
-				Authorization: "token 752982cd32e5153e288b8385c3f382302a8c2ce4",
+				Authorization: "token 092db51006b05cc21623e017a266b56b306e50d7",
 				"Content-Type": "application/json",
 				"User-Agent": "fake-client"
 			},
