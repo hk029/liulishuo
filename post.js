@@ -32,12 +32,13 @@ req = async () => {
 				}
 				// await queryIssue.editIssue(day, title, arr[0]);
 				let scan = arr[1];
-                scan =
+				scan =
 					scan.replace(/<u>(.*?)<\/u>/g, (res, word) =>
 						"_".repeat(word.length / 1.5)
 					) +
-					"\n\n" + scan.replace('# quick scan', '');
-					scan;
+					"\n\n" +
+					scan.replace("## quick scan", "");
+				scan;
 				layer[2] = await queryIssue.addComment(day, scan);
 				layer[3] = await queryIssue.addComment(
 					day,
@@ -107,7 +108,7 @@ class Issue {
 			url,
 			// "?access_token=b0fab3259b06e399c9bb6889fe345760ec952df5",
 			headers: {
-				Authorization: "token 092db51006b05cc21623e017a266b56b306e50d7",
+				Authorization: "token 7ebe8d4803279fd9928edeb868ee8426b69ea921",
 				"Content-Type": "application/json",
 				"User-Agent": "fake-client"
 			},
