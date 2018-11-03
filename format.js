@@ -40,7 +40,7 @@ list.map(line => {
 log(JSON.stringify(words));
 words.map(w => {
 	const { word } = w;
-	let reg = new RegExp(`${word}(ed|ing|s|es)`, "g");
+	let reg = new RegExp(`${word}(ed|ing|s|es)*`, "g");
 	log(reg);
 	yw = yw.replace(reg, m => ` ***${m}*** `);
 });
@@ -72,7 +72,7 @@ ${words
 	})
 	.join("\n")}
 `;
-fs.writeFileSync("./23.md", newContent);
+fs.writeFileSync("./day24.md", newContent);
 // lines = str(f.read())
 // print('123');
 // r = re.split(r'',lines)
