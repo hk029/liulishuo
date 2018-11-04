@@ -12,13 +12,22 @@ let words = [];
 let index = -1;
 let hasEg = false;
 list.map(line => {
-	let reg = /(\w*\s*\w)\s*(\/.+\/)/g;
+	let reg = /(\w+[\s|\.]*\w+)\s*(\/.*\/)/g;
 	if ((ret = reg.exec(line))) {
 		index++;
-		words[index] = {
-			word: ret[1],
-			pron: ret[2]
-		};
+		if (ret[2] !== "//") {
+			words[index] = {
+				word: ret[1],
+				pron: ret[2],
+				type: "word"
+			};
+		} else {
+			words[index] = {
+				word: ret[1],
+				type: "phrase"
+			};
+		}
+		hasEg = false;
 	} else if (index >= 0) {
 		if (line === "e.g.") {
 			hasEg = true;
@@ -39,36 +48,91 @@ list.map(line => {
 
 log(JSON.stringify(words));
 words.map(w => {
-	const { word } = w;
-	let reg = new RegExp(`${word}(ed|ing|s|es)*`, "g");
-	log(reg);
-	yw = yw.replace(reg, m => ` ***${m}*** `);
+	const { word, type } = w;
+	let reg = "";
+
+	if (w.type === "word") {
+		reg = new RegExp(`${word}(d|ed|ing|s|es)*`, "g");
+	} else {
+		reg = new RegExp(
+			`${word
+				.split(/[\s|\.]+/)
+				.map(w => `(${w})`)
+				.join("\\s.*?")}`,
+			"g"
+		);
+	}
+
+	yw = yw.replace(reg, (m, ...others) => {
+		// 短语里的单词
+		let newMatch = m;
+		let list = others.slice(0, -2);
+		// log(reg, m, list);
+		if (type === "word") {
+			return `***${m}***`;
+		} else {
+			list.map(w => {
+				log("w", w, RegExp(`\\s(${w})\\s`, "g"));
+				newMatch = newMatch.replace(
+					RegExp(`(${w})`, "g"),
+					m => `***${m}***`
+				);
+				log(newMatch);
+			});
+		}
+		return newMatch;
+
+		// ` **${m}** `
+	});
 });
 
-yw = yw.replace(/\n([^x00-xff].*)/g, (m, zh) => `\n> ${zh}\n`);
+let newYw = yw.replace(/\n([^x00-xff].*)/g, (m, zh) => `\n> ${zh}\n`);
 
-log();
 let newContent = `
-${yw}
+${newYw}
 ----
 # quick scan
+${yw}
 ----
-## words
+## word
 ${words
 	.map(w => {
-		const { word, explain } = w;
-		let text = `### ${word}\n`;
-		text += explain
-			.map(e => {
-				let tmp = "";
-				tmp += `* ${e.ch}\n`;
-				if (e.eg) {
-					tmp += `\t* ${e.eg}`;
-				}
-				return tmp;
-			})
-			.join("\n");
-		return text;
+		const { word, explain, type } = w;
+		if (type === "word") {
+			let text = `### ${word}\n`;
+			text += explain
+				.map(e => {
+					let tmp = "";
+					tmp += `* ${e.ch}\n`;
+					if (e.eg) {
+						tmp += `\t* ${e.eg}`;
+					}
+					return tmp;
+				})
+				.join("\n");
+			return text;
+		}
+	})
+	.join("\n")}
+    
+## phrases
+${words
+	.map(w => {
+		const { word, explain, type } = w;
+		if (type === "phrase") {
+			let text = `### ${word}\n`;
+			text += explain
+				.map(e => {
+					let tmp = "";
+					tmp += `* ${e.ch}\n`;
+					if (e.eg) {
+						tmp += `\t* ${e.eg}`;
+					}
+					return tmp;
+				})
+				.join("\n");
+			return text;
+		}
 	})
 	.join("\n")}
 `;
