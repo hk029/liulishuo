@@ -1,57 +1,58 @@
-I fell for Facebook fake news. Here's why millions of you did, too.
-我被脸书的假新闻欺骗，这里是成千上万的人也和我一样被它欺骗的原因
-The Facebook video is nuts, but I can't tear my eyes away. A plane, struggling in a huge storm, does a 360-degree flip before safely landing and letting out terrified passengers.
-脸书上的视频十分愚蠢，但我却看得目不转睛。在视频里，一架在狂风暴雨里挣扎的飞机，在空中翻转了 360 度后安全降落，让惊恐万分的乘客们走出机舱。
-It turns out the video is totally bunk, spliced together from a computer-generated clip and unrelated real news footage. But that didn't stop the Facebook post from arriving in my News Feed via a friend last month. I watched it. Maybe you did, too: It has nearly 14 million views.
-原来这个视频纯粹是在胡编瞎造，只不过是把一个计算机生成的视频和一些不相关的真实新闻镜头剪接在一起。然而这个操作并没有阻止该脸书视频上个月通过我的朋友传到我的信息流中。我看了这个视频。可能你也看了：这个视频的浏览量差不多到了 1400 万。
-If you think you're immune to this stuff, you're wrong. Detecting what's fake in images and video is only getting harder. Misinformation is part of an online economy that weaponizes social media to profit from our clicks and attention. And with the right tools to stop it still a long ways off, we all need to get smarter about it.
-如果你觉得自己不受这种假视频的影响，你就大错特错了。发现图像和视频中的假象只会变得越来越难。网络经济将社交媒体变作武器，从我们的点击和关注中获益，而虚假信息是网络经济的一部分。因为阻止虚假信息的有效工具依旧遥不可及，我们都需要对此变得更加敏锐。
-Fake news producers also use our friends to add to their credibility. When I saw the plane video, my suspicions weren't on high alert because it came from my friend, who I trust as a smart guy. He told me he realized later the video was a fake, but thought comments on his post would alert his friends. "It's just funny thinking about the steps by which we get duped," he said.
-假新闻的生产者还会利用我们的朋友来增加他们的可信度。当我看到那个飞机视频时，我并没有那么怀疑，因为这个视频来自一个我坚信很聪明的朋友。他告诉我他后来意识到视频是假的，但是觉得针对他帖子的评论能够警示他的朋友们。“想一想我们被欺骗的步骤真的很有趣，”他表示。
-Maybe we'll eventually learn to be less trusting of our friends—at least the online ones. The people we count on for important information in the real world aren't always the people who fill our social media feeds.
-或许我们最终将学会降低对朋友的信任——至少降低对线上朋友的信任。在现实生活中为我们提供重要可靠信息的人，和在社交媒体上填满我们信息流的人，并不总是同一拨人。
-Or if you want to avoid being that friend: Before you spread the latest outrage online, stop and consider the source.
-或者，如果你想避免成为那样的朋友：在你传播线上最新的爆款新闻之前，停下来并想一想这个消息的来源。
-—————  文章来源 / 华盛顿邮报 
+Paul Allen, co-founder of Microsoft, dies aged 65 
+微软联合创始人保罗·艾伦逝世，享年 65 岁
+Paul Allen, who co-founded Microsoft with his childhood friend Bill Gates, has died. He was 65.
+曾与童年好友比尔·盖茨共同创办微软公司的保罗·艾伦逝世了，时年 65 岁。
+Earlier this month Allen said the cancer he was treated for in 2009, non-Hodgkin lymphoma, had returned.
+本月初，艾伦表示他的癌症——非霍奇金氏淋巴瘤——已经复发。2009 年他曾因为这种病接受过治疗。
+Allen and his high school friend Gates founded Microsoft in 1975. He served as the company's executive vice-president of research and new product development until 1983, when he left for health reasons. He stayed as a major shareholder and member of the board.
+艾伦和他的高中好友盖茨于 1975 年创办了微软公司。他曾担任微软的研究和新品开发部门的执行副总裁，直到在 1983 年因为健康问题而离开，但保留了公司大股东和董事会成员的身份。
+“I am heartbroken by the passing of one of my oldest and dearest friends, Paul Allen,” said Bill Gates in a statement on Monday. Despite being less well-known than Bill Gates, Allen played a critical role in developing the personal computer at a time when the typical computer was the size of a room and far too expensive for most people or businesses to own.
+比尔·盖茨在周一的一份声明中说：“我伤心至极，因为我最敬爱、也是最老的朋友之一保罗·艾伦去世了。”虽然艾伦的名气不及比尔·盖茨，但是他对个人计算机的发展所做出的贡献却至关重要——在那个时代，一台普通的电脑能占满一个房间，而它的价位也远在大部分人和公司的承受范围之外。
+It was Allen who came up with the name Microsoft and, according to his memoir Idea Man, it was he who came up with the idea to write a software program for the world's first micro-computer.
+“微软”这个名字就出自艾伦之手。而根据他的回忆录《我用微软改变世界》，最初提议为世界上第一台微型计算机编写软件程序的，也是他。
+Microsoft's big break came in 1980, when IBM decided to move into personal computers. IBM asked Microsoft to provide the operating system.
+1980 年，IBM 公司决定进入个人电脑市场，这对于微软来说意味着一个巨大的契机。IBM 请微软来供应其电脑的操作系统。
+The decision thrust Microsoft onto the throne of technology and the two Seattle natives became billionaires. Both later dedicated themselves to philanthropy.
+IBM 的这一决定最终将微软一举推上了科技行业的巅峰，也让两位来自西雅图的创始人变成了亿万富翁。后来，两人双双决定投身慈善。
+Over the course of several decades, Allen gave more than $2bn to a wide range of interests, including ocean health, homelessness and advancing scientific research.
+在几十年的时间里，艾伦对众多慈善事业的投入累计超过了 20 亿美元，其中包括海洋保护、流浪者关怀和科研推进等方面。
+—————  文章来源 / 卫报 
 重点词汇
-fall for //
-对某物信以为真；被某物欺骗
-nuts/nʌts/
-adj. 愚蠢的；怪异的；发疯的
-tear ... away //
-使依依不舍地离开；把（某人）拽走
-flip/flɪp/
-n. 翻动；翻转
-bunk/bʌŋk/
-n. 胡说；瞎话
+lymphoma/lɪmˈfoʊmə/
+n. 淋巴瘤，淋巴癌
+shareholder/ˈʃerhoʊldər/
+n. 股票持有人，股东
+member of the board //
+董事会成员
+passing/ˈpæsɪŋ/
+n. 时间的流逝；逝世，去世（委婉语）
 e.g.
-What a load of bunk!
-splice/splaɪs/
-v. 拼接；拼凑
+With the passing of the years she had become a little eccentric.
+memoir/ˈmemwɑːr/
+n. 回忆录；自传
+break/breɪk/
+n. 机会；机缘
 e.g.
-He taught me to edit and splice films.
-Scientists have discovered how to splice pieces of DNA.
-immune/ɪˈmjuːn/
-adj. 免疫的；不受影响的
+Dad, I swear, this is my break!
+thrust/θrʌst/
+v. 猛地一推；一举推向
 e.g.
-immune system
-The nature of a promise is that it stays immune to changes.
-on alert //
-处于戒备状态
-dupe/duːp/
-v. 愚弄；欺骗
-count on //
-指望；依靠
+Britney Spears was thrust into the limelight at the early age of 17.
+throne/θroʊn/
+n. 王座；王权
 e.g.
-You can count on me.
+the British throne
+course/kɔːrs/
+n. （时间的）进程
 拓展内容
-misleading truth
+保罗·艾伦自传 Idea Man
 
 
-misleading truth 指的是“误导性真相”，也可以理解为“half-truth（半真相）”，它是一种欺骗性的陈述。这类陈述有可能是部分真实的，也有可能是完全真实的，但仅仅是整个事实真相的一部分，也有可能这类陈述里包含了某些欺骗性元素，比如双重含义等。misleading truth 的陈述人常常带有欺骗、逃避、指责或歪曲真相的意图。
+Idea Man（中文译名《我用微软改变世界》）是微软联合创始人保罗·艾伦先生的回忆录，记录了艾伦和比尔·盖茨从相遇相惜到分道扬镳的故事。
 
-比如 2018 年 1 月，美国总统特朗普在 Twitter 上声称“因为我的政策，刚刚报告中说黑人的失业率达到了有史以来的最低点！”这其实是一个 misleading truth，特朗普在任期间，黑人失业率确实很低，但其实从 2010 年开始，也就是从特朗普获选的 6 年前、上任的 7 年前开始，黑人的失业率一直在下降。这并不能表明这是特朗普的政策引起的。
+本书内容简介：保罗·艾伦是比尔·盖茨最纠缠不清的黄金拍档，1953 年生于华盛顿州西雅图，曾就读于西雅图一家著名的私立学校 Lakeside School，在这里他遇到了比他小两级但对计算机同样痴迷的比尔·盖茨，从此开始了两人爱恨情仇数不尽的人生。
 
-再举两个关于开车被贴罚单的例子：一个司机由于超速被贴了罚单，他解释说："我其实车开得很不错的呢。在过去的三十年里，我只被开过 4 张超速罚单"。这个声明可能是真的，但如果这位司机一周前才开车上路，这句话就很误导人了。另一个司机因为醉驾被警方拦住，司机醉醺醺的说："我只喝了几瓶啤酒”，这也可能是个误导性真相，因为这位司机可能还喝了除啤酒以外的含酒精的饮料，说不定他喝的别的酒更多，度数更高。
+他们一起独占了学校唯一一台微型计算机，通宵达旦地编程。多年后，艾伦将编写商业软件的梦想告诉盖茨，两个人一拍即合，先后辍学，于 1975 年共同创立了微软公司。虽然微软的股票让艾伦在 34 岁就成为亿万富翁，但在公众眼里，他只能是世界首富背后的男人。当年艾伦也绝对想不到，盖茨会在他离职之后想尽办法将他驱逐出核心权利层。
 
-最后，还有一个最经典的例子——盲人摸象。每个盲人其实都只触摸了大象的不同部位，就对大象的本质达成了不同的结论。一个人可能摸到的是尾巴，他觉得大象是又长又细的，另一个摸到了大象的肚子，他觉得大象是又大又圆的。每个盲人摸象的经历都是准确的，但他们没有完全了解大象的本质。
+离开了比尔·盖茨的保罗·艾伦，却活出了更精彩的人生。他是动漫迷们最爱的梦工厂（Dreamworks）的大股东，是橄榄球队西雅图海鹰和 NBA 球队波特兰开拓者的老板。他玩摇滚，玩航海，玩太空，玩冒险。他的妹妹朱迪·艾伦曾经称哥哥“感觉不错，乐观依旧”。
+00:00	

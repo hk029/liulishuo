@@ -12,7 +12,7 @@ let words = [];
 let index = -1;
 let hasEg = false;
 list.map(line => {
-	let reg = /(\w+[\s|\.]*\w+)\s*(\/.*\/)/g;
+	let reg = /(\w+.*\w+)\s*(\/.*\/)/g;
 	if ((ret = reg.exec(line))) {
 		index++;
 		if (ret[2] !== "//") {
@@ -46,7 +46,7 @@ list.map(line => {
 	}
 });
 
-log(JSON.stringify(words));
+// 对单词部分遍历
 words.map(w => {
 	const { word, type } = w;
 	let reg = "";
@@ -69,13 +69,13 @@ words.map(w => {
 		let list = others.slice(0, -2);
 		// log(reg, m, list);
 		if (type === "word") {
-			return `***${m}***`;
+			return `**${m}**`;
 		} else {
 			list.map(w => {
 				log("w", w, RegExp(`\\s(${w})\\s`, "g"));
 				newMatch = newMatch.replace(
 					RegExp(`(${w})`, "g"),
-					m => `***${m}***`
+					m => `**${m}**`
 				);
 				log(newMatch);
 			});
@@ -91,7 +91,7 @@ let newYw = yw.replace(/\n([^x00-xff].*)/g, (m, zh) => `\n> ${zh}\n`);
 let newContent = `
 ${newYw}
 ----
-# quick scan
+## quick scan
 ${yw}
 ----
 ## word

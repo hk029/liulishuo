@@ -108,7 +108,7 @@ class Issue {
 			url,
 			// "?access_token=b0fab3259b06e399c9bb6889fe345760ec952df5",
 			headers: {
-				Authorization: "token 7a4d75009db0005a316eb97834aefe268852b390",
+				Authorization: "token fddb57159571716e28db0721268789c3fc277613",
 				"Content-Type": "application/json",
 				"User-Agent": "fake-client"
 			},
