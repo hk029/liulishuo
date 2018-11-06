@@ -8,5 +8,6 @@ log
 logs
 dist/
 days.xmind
-post.js
-format.js
+./post.js
+./format.js
+test.txt
