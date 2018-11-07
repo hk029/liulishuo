@@ -3,7 +3,12 @@ const fs = require("fs");
 let text = fs.readFileSync("./test.txt").toString();
 let res = text.split(/—————\s*|重点词汇|拓展内容/g);
 const log = console.log;
-let yw = res[0];
+let tmp = res[0].split("\n");
+// log(tmp);
+let title = tmp[0];
+let ch_title = tmp[1];
+let flag = false;
+let yw = tmp.slice(2).join("\n");
 let source = res[1];
 let list = res[2].split("\n");
 
@@ -12,7 +17,6 @@ let index = -1;
 let hasEg = false;
 list.map(line => {
 	let reg = /(\w+.*\w+)\s*(\/.*\/)/g;
-	log(line);
 	if ((ret = reg.exec(line))) {
 		index++;
 		if (ret[2] !== "//") {
@@ -29,7 +33,6 @@ list.map(line => {
 		}
 		hasEg = false;
 	} else if (index >= 0) {
-		log("i", line, words[index]);
 		if (line === "e.g.") {
 			hasEg = true;
 		} else {
@@ -46,7 +49,6 @@ list.map(line => {
 				words[index].explain = [{ ch: line, eg: [] }];
 			}
 		}
-		log(words[index]);
 	}
 });
 
@@ -76,12 +78,10 @@ words.map(w => {
 			return `**${m}**`;
 		} else {
 			list.map(w => {
-				log("w", w, RegExp(`\\s(${w})\\s`, "g"));
 				newMatch = newMatch.replace(
 					RegExp(`(${w})`, "g"),
 					m => `**${m}**`
 				);
-				log(newMatch);
 			});
 		}
 		return newMatch;
@@ -90,9 +90,20 @@ words.map(w => {
 	});
 });
 
-let newYw = yw.replace(/\n([^x00-xff].*)/g, (m, zh) => `\n> ${zh}\n`);
+let newYw = yw
+	.split("\n")
+	.map(v => {
+		log(flag);
+		if (v === "") {
+			return "";
+		} else return (flag = !flag) ? `\n${v}` : `> ${v}\n`;
+	})
+	.join("\n");
 
 let newContent = `
+# ${title}
+${ch_title}
+## 原文
 ${newYw}
 ----
 ## quick scan
