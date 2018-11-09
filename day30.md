@@ -1,4 +1,3 @@
-
 # In Italy, ‘al dente’ is prized. In Taiwan, it’s all about food that’s ‘Q.’
 在意大利，“有嚼劲”被视为珍宝；在台湾，它与一切“Q”的食物有关
 ## 原文
@@ -41,99 +40,99 @@ Q 的口感之于台湾人，犹如鲜味<u>umami</u>之于日本人，有嚼劲
 ----
 ## word
 ### al dente
-* adj. 有嚼劲，有弹性
-
+* . adj. 有嚼劲，有弹性
 ### fluorescent
-* adj. 荧光的
-	* a fluorescent lamp
+* . adj. 荧光的
+    * . a fluorescent lamp
 ### flicker
-* v. （灯光等）闪烁，摇曳，忽隐忽现（flicker n.）
-	* the candle flickered
-	* the flicker of the candle
-
+* . v. （灯光等）闪烁，摇曳，忽隐忽现（flicker n.）
+    * . the candle flickered
+    * . the flicker of the candle
 ### delicacy
-* n. 美食，珍馐，佳肴
-
+* . n. 美食，珍馐，佳肴
 ### culinary
-* adj. 烹饪的，食物的
-	* culinary skills
+* . adj. 烹饪的，食物的
+    * . culinary skills
 ### plump
-* adj. 丰满的，饱满的
-	* a plump baby
-	* plump juicy grapes
-
+* . adj. 丰满的，饱满的
+    * . a plump baby
+    * . plump juicy grapes
 ### tapioca
-* n. 木薯淀粉
-
+* . n. 木薯淀粉
 ### syrup
-* n. 糖浆
-
+* . n. 糖浆
 ### texture
-* n. 口感
-	* She likes sponge cakes because they have a light texture.
+* . n. 口感
+    * . She likes sponge cakes because they have a light texture.
 ### calibrated
-* adj. （工具或仪器）校准的（calibrate v.）
-	* to calibrate a thermometer
+* . adj. （工具或仪器）校准的（calibrate v.）
+    * . to calibrate a thermometer
 ### slippery
-* adj. 滑溜的，湿滑的
-
+* . adj. 滑溜的，湿滑的
 ### chewy
-* adj. 耐嚼的，需要多嚼的（chew v.）
-	* chewy toffee
+* . adj. 耐嚼的，需要多嚼的（chew v.）
+    * . chewy toffee
+        * 耐嚼的太非奶糖
+* chew
+    * 咀嚼
+        * chew bubble gum
 ### globby
-* adj. 黏糊糊的（glob n.）
-	* a glob of ketchup
+* . adj. 黏糊糊的（glob n.）
+    * . a glob of ketchup
 ### flattering
-* adj. 奉承的，讨好的（flatter v.）
-	* She's always making flattering remarks.
+* . adj. 奉承的，讨好的（flatter v.）
+    * . She's always making flattering remarks.
 ### springy
-* adj. 有弹性的，有活力的（spring v.）
-	* the springy turf
+* . adj. 有弹性的，有活力的（spring v.）
+    * . the springy turf
+* spring
+    * 弹簧
 ### elastic
-* adj. 有弹力的，可伸缩的
-	* an elastic rope
+* . adj. 有弹力的，可伸缩的
+    * . an elastic rope
 ### umami
-* n. 鲜味
-
+* . n. 鲜味
 ### savory
-* adj. 美味的；不甜的
-
+* . adj. 美味的；不甜的
 ### starch
-* n. 淀粉（starchy adj.）
-
+* . n. 淀粉（starchy adj.）
 ### appealing
-* adj. 有吸引力的
-	* The idea of not having to get up early every morning is rather appealing to me.
+* . adj. 有吸引力的
+    * . The idea of not having to get up early every morning is rather appealing to me.
 ### stand
-* n. 摊位
-	* a newspaper stand
-	* 
-    
+* . n. 摊位
+    * . a newspaper stand
+## extend
+### 形容食物
+* 口感
+    * mouth feel
+    * texture
+* 湿滑
+    * slippery
+* 黏糊糊 
+    * globby
+* 弹性
+    * springy
+    * elastic
+* 鲜味
+    * umami
+* 不甜的，美味
+    * savory
+* 美味
+    * delicious
+        * 美味的
+    * delicacy
+        * 佳肴
+* 耐嚼的
+    * chewy
+    * al dente
 ## phrases
-
-
-
 ### trickling in
-* （人）缓慢地移动，三三两两地进入
-	* People began trickling in/into the hall.
-
-
-
+* . （人）缓慢地移动，三三两两地进入
+    * . People began trickling in/into the hall.
 ### brim with
-* 装满，充满
-	* a glass brimming with coffee
+* . 装满，充满
+    * . a glass brimming with coffee
+## by HawKeye
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*XMind: ZEN - Trial Version*
