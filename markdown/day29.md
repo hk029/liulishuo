@@ -1,4 +1,4 @@
-# Why the Pittsburgh shooter raged about immigration before attacking a synagogue
+# day29 Why the Pittsburgh shooter raged about immigration before attacking a synagogue
 匹兹堡枪击案凶手对移民暴怒不已，并袭击了犹太教堂的原因
 ## 原文
 
