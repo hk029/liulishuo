@@ -1,5 +1,4 @@
-
-# Donald Trump’s unconstitutional dreams
+# day35 Donald Trump’s unconstitutional dreams
 唐纳德·特朗普的违宪之梦
 ## 原文
 
@@ -45,83 +44,59 @@ Trump’s order, if issued, will not only violate both the Constitution and deep
 ----
 ## word
 ### unconstitutional
-* adj. 违反宪法的（constitution n.; constitutional adj.）
-
-
-
-
-
+* . adj. 违反宪法的（constitution n.; constitutional adj.）
 ### ratify
-* v. 签署，正式批准
-	* ratify a treaty
+* . v. 签署，正式批准
+    * . ratify a treaty
 ### purge
-* v. 清洗、清除（不愿有的）情感（或记忆、情形）；肃清（人或群体）
-	* purge the party of extremists/extremists from the party
-	* Nothing could purge the guilt from my mind.
+* . v. 清洗、清除（不愿有的）情感（或记忆、情形）；肃清（人或群体）
+    * . purge the party of extremists/extremists from the party
+    * . Nothing could purge the guilt from my mind.
 ### legacy
-* n. 遗留问题，后遗症
-	* The war has left a legacy of hatred.
+* . n. 遗留问题，后遗症
+    * . The war has left a legacy of hatred.
 ### eloquent
-* adj. 有说服力的；清楚表明的
-	* Her eyes were eloquent of her thoughts.
+* . adj. 有说服力的；清楚表明的
+    * . Her eyes were eloquent of her thoughts.
 ### assimilation
-* n. 同化
-
+* . n. 同化
 ### repudiation
-* n. 拒绝接受，拒绝与…往来 (repudiate v.)
-
+* . n. 拒绝接受，拒绝与…往来 (repudiate v.)
 ### prospective
-* adj. 很可能发生的
-	* a prospective buyer
+* . adj. 很可能发生的
+    * . a prospective buyer
 ### supposedly
-* adv. 据称 （suppose v.）
-	* a poem supposedly written by Shakespeare
+* . adv. 据称 （suppose v.）
+    * . a poem supposedly written by Shakespeare
 ### anchor
-* n. 锚
-
+* . n. 锚
 ### exaggeration
-* n. 夸张 (exaggerate v.)
-
+* . n. 夸张 (exaggerate v.)
 ### precedent
-* n. 先例
-	* Such a president is without precedent in history.
+* . n. 先例
+    * . Such a president is without precedent in history.
+* unprecedented
+    * 史无前例的
 ### unilaterally
-* adv. 单边地
-
+* . adv. 单边地
 ### abrogate
-* v. 撤销，取消（法律，权利，正式协议）
-	* abrogate the rule/the treaty
+* . v. 撤销，取消（法律，权利，正式协议）
+    * . abrogate the rule/the treaty
 ### provision
-* n. （法律中的）条款
-
-* 
-
-    
+* . n. （法律中的）条款
 ## phrases
-
 ### executive order
-* （美国总统颁布的具有法律效能的）行政命令
-	* 
+* . （美国总统颁布的具有法律效能的）行政命令
+*
 ### birthright citizenship
-* 出生公民权
-	* Education is every child's birthright. 
+* . 出生公民权
+    * . Education is every child's birthright.
 ### constitutional amendment
-* 宪法修正案
-	* an amendment to existing laws
+* . 宪法修正案
+    * . an amendment to existing laws
 ### on the books
-* （法律上）记录在册的
-	* 
+* . （法律上）记录在册的
+*
+## by HawKeye
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+*XMind: ZEN - Trial Version*
