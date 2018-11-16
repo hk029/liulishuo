@@ -1,5 +1,4 @@
-
-# TikTok is cringey and that's fine (Part 1)
+# day37 TikTok is cringey and that's fine (Part 1)
 抖音很尬，但没关系（上）
 ## 原文
 
@@ -31,84 +30,63 @@ But most adults using the app aren’t trying to **go** **viral**: They’re mak
 
 ----
 ## word
-
-
 ### lip-synch
-* v. 假唱，对口型
-
+* . v. 假唱，对口型
 ### brain freeze
-* n. 头痛；突然意识模糊
-
-### cringe
-* v. 感到难堪、难为情（cringey adj.）
-	* I cringed at the sight of my mom dancing.
-### compilation
-* n. 汇编，辑，集（compile v.）
-	* compilation albums
-
-### vest
-* n. 背心
-	* a cotton vest
-	* a bullet-proof vest
-### emphatically
-* adv. 有力地，强调地（emphatic adj., emphasis n.）
-	* The proposal to work 6 days a week was emphatically defeated. 
-### Confederate
-* adj. 美利坚邦联的（Confederation n.）
-
-### merge
-* v. 合并（merger n.）
-	* merge into something
-	* The villages expanded and merged into one large town.
-### prevailing
-* adj. 流行的，普遍的（prevail v.）
-	* The prevailing mood is optimism.
-### notion
-* n. 观念，看法
-	* notion of something
-	* I only had a vague notion of what might happen.
-### creepy
-* adj. 怪异的，让人起鸡皮疙瘩的（creep v.）
-	* a creepy smile
-### memer
-* n. 制作迷因的人（meme n.）
-
-### bizarre
-* adj. 怪诞的，异乎寻常的
-	* =weird
-	* a bizarre story
-	* A bizarre thought leapt into his mind.
-### self-awareness
-* n. 自知，自我意识（self-aware adj.）
-
-### mock
-* v. 嘲笑；模仿
-
+* . n.（冷刺激） 头痛；突然意识模糊
 * 
-
-    
+### cringe
+* . v. 感到难堪、难为情（cringey adj.）共情尴尬
+    * . I cringed at the sight of my mom dancing.
+* 相关
+    * embarrass
+### compilation
+* . n. 汇编，辑，集（compile v.）
+    * . compilation albums
+### vest
+* . n. 背心
+    * . a cotton vest
+    * . a bullet-proof vest
+### emphatically
+* . adv. 有力地，强调地（emphatic adj., emphasis n.）
+    * . The proposal to work 6 days a week was emphatically defeated.
+### Confederate
+* . adj. 美利坚邦联的（Confederation n.）
+### merge
+* . v. 合并（merger n.）
+    * . merge into something
+    * . The villages expanded and merged into one large town.
+### prevailing
+* . adj. 流行的，普遍的（prevail v.）
+    * . The prevailing mood is optimism.
+### notion
+* . n. 观念，看法
+    * . notion of something
+    * . I only had a vague notion of what might happen.
+### creepy
+* . adj. 怪异的，让人起鸡皮疙瘩的（creep v.）
+    * . a creepy smile
+* . =weird
+### memer
+*  n. 制作迷因的人（meme n.） ( 各种流行的元素，表情包，小短片）例如兔斯基）
+### bizarre
+* . adj. 怪诞的，异乎寻常的
+    * . a bizarre story
+    * . A bizarre thought leapt into his mind.
+### self-awareness
+* . n. 自知，自我意识（self-aware adj.）
+### mock
+* . v. 嘲笑；模仿
 ## phrases
 ### go viral
-* 像病毒一样传播，病毒式传播
-	* 
+* .走红， 像病毒一样传播，病毒式传播
 ### rack up
-* 累计，累积
-	* In ten years of boxing he racked up a record 176 wins.
-
-
-
-
+* . 累计，累积
+    * . In ten years of boxing he racked up a record 176 wins.
 ### a thread of
-* 一系列
-	* a thread of discussion on Twitter
+* . 一系列，常用于网络语句
+    * . a thread of discussion on Twitter
+* = a series of
+## by HawKeye
 
-
-
-
-
-
-
-
-
-
-
+*XMind: ZEN - Trial Version*
