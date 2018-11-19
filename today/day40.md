@@ -1,5 +1,4 @@
-
-# Superfoods Are a Marketing Ploy 
+# day40 Superfoods Are a Marketing Ploy 
 超级食物是一种营销策略
 ## 原文
 
@@ -32,58 +31,44 @@ FDA 裁定<u>ruled</u>，它将允许认证的夏威夷坚果的健康声明，�
 ----
 ## word
 ### ploy
-* n. 策略
-	* clever marketing ploy
-	* It is just a ploy to deceive the public.
+* . n. 策略
+    * . clever marketing ploy
+        * 巧妙的营销策略
+    * . It is just a ploy to deceive the public.
+        * 这只是一种欺骗公众的计谋
 ### unprocessed
-* adj. （尤指食物、原材料）未加工的
-	* healthy unprocessed food
-### cranberry
-* n. 蔓越莓
-
-### avocado
-* n. 牛油果
-
-### walnut
-* n. 核桃；胡桃
-
+* . adj. （尤指食物、原材料）未加工的
+    * . healthy unprocessed food
 ### claim
-* n. 声明；声称；断言
-
+* . n. 声明；声称；断言
 ### petition
-* v. 请愿；申诉；申请
-	* They're petitioning for better facilities for disabled people.
-### macadamia
-* n. 夏威夷坚果
-
-### ounce
-* n. 盎司（相当于 28.35 克）
-
-
-### cholesterol
-* n. 胆固醇
-
+* . v. 请愿；申诉；申请
+    * . They're petitioning for better facilities for disabled people.
 ### coronary
-* adj. 冠状动脉或静脉的
-
+* . adj. 冠状动脉或静脉的
+    * coronary heart disease
+        * 冠心病
 ### cumbersome
-* adj. 冗长的，累赘的，复杂的
-	* The organisation changed its cumbersome title to something easier to remember.
-	* 
-    
-## phrases
-
-
-
-
-
-
-
-
-
-### saturated fat
-* （来自肉类和乳类的）饱和脂肪
-	* 
-
-
-
+* . adj. 冗长的，累赘的，复杂的
+    * . The organisation changed its cumbersome title to something easier to remember.
+### takein
+* 摄入
+## extend
+### 健康水果
+* cranberry
+    * . n. 蔓越莓
+* avocado
+    * . n. 牛油果
+* macadamia
+    * . n. 夏威夷坚果
+* walnut
+    * . n. 核桃；胡桃
+### 食物相关
+* ounce
+    * . n. 盎司（相当于 28.35 克）
+* cholesterol
+    * . n. 胆固醇
+* calorie
+    * 卡路里
+* saturated fat
+    * . （来自肉类和乳类的）饱和脂肪
