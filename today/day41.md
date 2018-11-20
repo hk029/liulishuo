@@ -1,5 +1,4 @@
-
-# What's wrong with AI? Try asking a human being 
+# day41 What's wrong with AI? Try asking a human being 
 人工智能怎么了？试着去问问人类吧
 ## 原文
 
@@ -50,51 +49,44 @@ And third, while there are many circumstances in which machines are better, espe
 ----
 ## word
 ### automate
-* v. 自动化
-	* use computers to automate the process
+* . v. 自动化
+    * . use computers to automate the process
 ### penalise
-* v. 置于不利地位；不公正对待
-	* The law appears to penalise the poorest members of society.
-	* résumé/ˈrezjumeɪ/
-	* n. 简历
-
+* . v. 置于不利地位；不公正对待
+    * . The law appears to penalise the poorest members of society.
+### résumé
+* . n. 简历
 ### malevolently
-* adv. 恶意地
-	* benevolent
+* . adv. 恶意地
+* 相关
+    * . benevolent
+        * 仁慈的
 ### misogynistic
-* adj. 厌女的
-	* misogynist
+* . adj. 厌女的
+    * . misogynist
 ### recruit
-* n. 新成员，新人
-
+* . n. 新成员，新人
 ### likelihood
-* n. 可能性
-	* The likelihood of infection
+* . n. 可能性
+    * . The likelihood of infection
 ### reoffend
-* v. 再次犯罪，再次犯法
-	* Without help, many released prisoners will reoffend.
+* . v. 再次犯罪，再次犯法
+    * . Without help, many released prisoners will reoffend.
 ### recidivist
-* n. 惯犯，累犯
-
+* . n. 惯犯，累犯
 ### paramount
-* adj. 最高的，至上的
-
+* . adj. 最高的，至上的
 ### deprecate
-* v. 反对；忽视，看不起
-	* He always deprecates my achievements.
-	* 
-    
+* . v. 反对；忽视，看不起
+    * . He always deprecates my achievements.
+        * 他总是轻视我的成就
+* 强烈反对
+    *    a deprecating comment 
+        *    表示反对的评论 
 ## phrases
-
-
 ### mark down
-* 降低......的分数
-	* She was marked down because of poor grammar.
+* . 降低......的分数
+    * . She was marked down because of poor grammar.
+## by HawKeye
 
-
-
-
-
-
-
-
+*XMind: ZEN - Trial Version*

@@ -1,74 +1,74 @@
-Superfoods Are a Marketing Ploy 
-超级食物是一种营销策略
-In their largely unprocessed forms, foods from the earth, trees, or animals are healthful by definition. So why, you might ask, would the producers of foods such as cranberries, pears, avocados, or walnuts fund research aimed at proving that these particular foods—rather than fruits, vegetables, or nuts in general—have special health benefits? Marketing, of course. Every food producer wants to expand sales. Health claims sell.
-在大部分未经加工的形态下，来自土壤、树木或动物的食物从定义上来说是健康的。所以，你可能会问，为什么蔓越莓、梨、牛油果或者核桃等食物的生产商会去资助研究，旨在证明上述特定食物——而不是所有水果、蔬菜或坚果——有特殊的健康益处呢？当然是因为市场营销。每个食品生产商都想扩大销售。强调健康效果的产品往往会卖得好。
-All of this explains why Royal Hawaiian Macadamia Nut petitioned the FDA in 2015 to allow it to say in advertisements that daily consumption of macadamias—along with eating a healthy diet—may reduce the risk of heart disease. The 81-page petition cited several studies done in humans, one of them funded by the Hershey Company, which sells chocolate-covered macadamias.
-这一切都解释了为什么夏威夷皇家坚果公司在 2015 年向 FDA（美国食品药品监督管理局）请愿，要求 FDA 允许它在广告中声明，每日食用夏威夷坚果——再加上健康饮食——可以降低患心脏病的风险。这份长达 81 页的请愿书引用了几项针对人类的研究，其中一项由好时公司资助，该公司销售夏威夷果仁巧克力。
-The FDA ruled that it would permit a qualified health claim for macadamia nuts with this precise wording: “Supportive but not conclusive research shows that eating 1.5 ounces per day of macadamia nuts, as part of a diet low in saturated fat and cholesterol and not resulting in increased intake of saturated fat or calories may reduce the risk of coronary heart disease.” Can a statement this cumbersome help sell macadamia nuts? Definitely, with a little help from the press: “Go nuts, folks! FDA declares macadamia nuts heart healthy.”
-FDA 裁定，它将允许认证的夏威夷坚果的健康声明，但必须使用如下措辞：“支持性但非结论性研究表明，作为低饱和脂肪和低胆固醇饮食的一部分，每天食用 1.5 盎司的夏威夷坚果，而且不增加饱和脂肪或卡路里的摄入，可能会降低患冠心病的风险。”这么冗长的一个声明能不能帮助销售夏威夷坚果？当然，在媒体的一些帮助下：“小伙伴们！为坚果而疯狂吧！FDA 宣布夏威夷坚果有助于心脏健康。”
-But what is wrong with promoting the benefits of healthful foods? This kind of research is designed to produce results implying that people who eat this one food will be healthier and can forget about everything else in their diets. Research aimed at marketing raises questions about biases in design and interpretation, may create reputational risks for investigators, and reflects poorly on the integrity of nutrition science.
-但是，推广健康食品的好处有什么错呢？这种研究的目的是为了得出结果，暗示食用这一种食物的人更健康，并且可以忘记饮食中的其他一切。针对营销的研究提出了设计和解释中的偏见问题，可能会给研究者带来声誉风险，并且对营养科学的可信度造成负面影响。
-—————  文章来源 / 大西洋 
+What's wrong with AI? Try asking a human being 
+人工智能怎么了？试着去问问人类吧
+Amazon has apparently abandoned an AI system aimed at automating its recruitment process. The system gave job candidates scores ranging from one to five stars, a bit like shoppers rating products on the Amazon website.
+亚马逊似乎已经放弃了旨在使其招聘过程自动化的一个人工智能系统。该系统给求职者打分，从一星到五星不等，有点类似于顾客在亚马逊网站上给产品打分。
+The trouble was, the program tended to give five stars to men and one star to women. According to Reuters, it “penalised résumés that included the word ‘women’s’, as in ‘women’s chess club captain’” and marked down applicants who had attended women-only colleges.
+问题在于，该程序往往给男性求职者打五星，给女性求职者却只打一星。据路透社报道，该系统“将含有‘女性的’这几个字的简历置于不利地位，比如写有‘女子象棋俱乐部队长’这样的简历就会失分”，除此之外，该系统还压低了上过女子大学的申请人的分数。
+It wasn’t that the programme was malevolently misogynistic. Rather, like all AI programs, it had to be “trained” by being fed data about what constituted good results. Amazon, naturally, fed it with details of its own recruitment programme over the previous 10 years. Most applicants had been men, as had most recruits. What the program learned was that men, not women, were good candidates.
+这并不是说这个程序患有恶毒的厌女症。相反，正如所有人工智能程序一样，它必定被“训练”过，训练方式是向其灌输数据，这些数据表明什么可以被视为好结果。亚马逊自然也向它灌输了过去 10 年里招聘方案的细节信息。大多数申请者都是男性，大多数新员工也都是男性。这个程序学到的是：男人，而不是女人，才是好的候选人。
+It’s not the first time AI programs have been shown to exhibit bias. Software used in the US justice system to assess a criminal defendant’s likelihood of reoffending is more likely to judge black defendants as potential recidivists. Facial recognition software is poor at recognising non-white faces. A Google photo app even labelled African Americans “gorillas”.
+这已经不是人工智能程序第一次显示出偏见了。美国司法系统用来评估刑事被告再次犯罪的可能性的软件，更有可能将黑人被告视为潜在的累犯。人脸识别软件对非白种人的面部识别能力较差。而谷歌的一个图片应用程序甚至把非裔美国人标注为“大猩猩”。
+All this should teach us three things. First, the issue here is not to do with AI itself, but with social practices. The biases are in real life.
+所有这一切都应该告诉我们三件事。首先，这里的问题不是与人工智能本身有关，而是与社会实践有关。这些偏见存在于现实生活中。
+Second, the problem with AI arises when we think of machines as being objective. A machine is only as good as the humans programming it.
+第二，当我们认为机器是客观的时候，人工智能的问题出现了。机器如何表现，仅取决于对它编程的人们。
+And third, while there are many circumstances in which machines are better, especially where speed is paramount, we have a sense of right and wrong and social means of challenging bias and injustice. We should never deprecate that.
+第三，在许多情况下，机器表现更好，特别是在速度至上的情况下，但我们有对正确和错误的识别能力，以及挑战偏见和不公正的社会手段。我们永远不应该忽视这一点。
+—————  文章来源 / 卫报 
 重点词汇
-ploy/plɔɪ/
-n. 策略
+automate/ˈɔːtəmeɪt/
+v. 自动化
 e.g.
-clever marketing ploy
-It is just a ploy to deceive the public.
-unprocessed/ʌnˈprəʊsest/
-adj. （尤指食物、原材料）未加工的
+use computers to automate the process
+penalise/ˈpiːnəlaɪz/
+v. 置于不利地位；不公正对待
 e.g.
-healthy unprocessed food
-cranberry/ˈkrænbəri/
-n. 蔓越莓
-avocado/ˌævəˈkɑːdəʊ/
-n. 牛油果
-walnut/ˈwɔːlnʌt/
-n. 核桃；胡桃
-claim/kleɪm/
-n. 声明；声称；断言
-petition/pəˈtɪʃn/
-v. 请愿；申诉；申请
+The law appears to penalise the poorest members of society.
+résumé/ˈrezjumeɪ/
+n. 简历
+mark down //
+降低......的分数
 e.g.
-They're petitioning for better facilities for disabled people.
-macadamia/ˌmækəˈdeɪmiə/
-n. 夏威夷坚果
-ounce/aʊns/
-n. 盎司（相当于 28.35 克）
-saturated fat//
-（来自肉类和乳类的）饱和脂肪
-cholesterol/kəˈlestərɔːl/
-n. 胆固醇
-coronary/ˈkɔːrəneri/
-adj. 冠状动脉或静脉的
-cumbersome/ˈkʌmbərsəm/
-adj. 冗长的，累赘的，复杂的
+She was marked down because of poor grammar.
+malevolently/məˈlevələntli/
+adv. 恶意地
 e.g.
-The organisation changed its cumbersome title to something easier to remember.
+benevolent
+misogynistic/mɪˌsɑːdʒɪˈnɪstɪk/ 
+adj. 厌女的
+e.g.
+misogynist
+recruit/rɪˈkruːt/
+n. 新成员，新人
+likelihood/ˈlaɪklihʊd/ 
+n. 可能性
+e.g.
+The likelihood of infection
+reoffend/ˌriːəˈfend/
+v. 再次犯罪，再次犯法
+e.g.
+Without help, many released prisoners will reoffend.
+recidivist/rɪˈsɪdɪvɪst/
+n. 惯犯，累犯
+paramount/ˈpærəmaʊnt/ 
+adj. 最高的，至上的
+deprecate/ˈdeprəkeɪt/
+v. 反对；忽视，看不起
+e.g.
+He always deprecates my achievements.
 拓展内容
-“超级”食物，还是超级骗局？
+人工智能的“种族主义”
 
 
-食物虽好，但没那么“超级”
+2010 年一个秋天的早晨，萨菲亚·乌莫加·诺布尔（Safiya Umoja Noble）坐在伊利诺伊州家中的餐桌前，在谷歌上搜索词汇。
 
-某种食物被追捧，必定有其“过人之处”，不过超级食物的提法绝对是一种心理暗示，生产商和经销商抓住消费者希望通过饮食来达到健康长寿的心理，将超级二字赋予部分食物，普通食物摇身一变，成为众人追捧的养生大宝，澳大利亚堪培拉大学营养学家 Duane Mellor 曾说，“超级食物的提法是制造商的营销噱头”。
+当时她正准备与她十四岁的继女和五个小侄女一起过夜。“我想搜一下‘黑人女孩’，因为我脑子里想的是她们——我最喜欢的黑人女孩组合，”她说。
 
-2007 年，欧盟明令禁止在食品外包装上印刷“超级”二字来误导消费者，美国目前还未出台相关政策，但美国食品和药物管理局（FDA）如果发现任何在售食品的宣传和外包装中存在虚假和误导消费者的字眼存在，便可以对之采取行动。
+但看似无害的搜索引擎显示的结果却令人震惊：一个充满了色情链接的页面。那时候，任何人在谷歌搜索“黑人女孩”，都会得到同样的结果。
 
-不可否认，某些食物比其他同类食物确实含有更多的某种有效成分，但这些功效却被广告放大了，价格也随之一路飙升。而越来越多的科学研究表明，超级食物的功效目前只在小鼠身上得到了初步验证；人体的临床对比试验，也仅仅是小样品试验，说服力不够，且人类是杂食动物，膳食结构多元才是健康王道。
+“太令人失望了，几乎所有将种族和女孩联系在一起的搜索结果都以色情内容为主。” 南加州大学的传播学教授的诺布尔说，“我赶紧把电脑拿开了，希望孩子们都不会提出要玩它。”
 
-蓝莓：浆果家族中的普通一员
+在美国的另外一座城市，计算机科学家乔伊·布兰威尼（Joy Buolamwini）发现了 AI 的另外一个代表性问题。乔伊出生在加拿大，父母来自加纳，她发现当时先进的人脸识别系统，例如 IBM 和 Microsoft 使用的人脸识别系统并不能识别她深色的皮肤。有时更糟，程序根本发现不了她正站在前方。当时她是乔治亚理工学院的一名学生，正在研究一个机器人项目，却发现本应识别并躲避用户的机器人根本无法认出她来。她只好求助浅肤色的室友完成了这个项目。
 
-蓝莓据称可以有效降低患心血管疾病的风险。2012 年一项名为“中青年女性高摄入花青素与降低心肌梗死的风险关系”的研究，跟踪调查了 93000 名志愿者，结果显示，每周食用 3 颗或者数量更多蓝莓或草莓的女性，比那些一个月偶尔食用一次浆果类食物的女性患上心血管疾病的概率低了近 32%。研究人员将这一功劳归功于蓝莓和红浆果类（草莓和树莓）中富含的大量花青素。
-
-不过，2014 年的一项研究结果却实力打脸蓝莓等浆果的功效，该结果显示，食用蓝莓等浆果后，在人体的血液中几乎检测不到任何花青素。所以就产生了另一种解释：花青素可能作为人体肠道微生物的“园丁”，辅助其他物质进行降低心血管疾病的工作。
-
-所以，蓝莓与枸杞一样，虽然具备一定的功效，但本质上也不过是种浆果而已。
-
-藜麦：并不比其他谷物更健康
-
-藜麦原产地为南美洲的安第斯山脉，至今已有几千年的种植历史。1980 年，美国宇航局为宇航员筛选太空旅行的绝佳口粮，藜麦凭借高于其他粮食作物的蛋白质含量、拥有与人类需求相近的氨基酸组成以及矿物质、膳食纤维和维生素等突出优势，从一众谷物中脱颖而出。除此之外，联合国还将 2013 年定为国际藜麦年。美国宇航局的青睐以及联合国的“恩宠”，让藜麦逐渐成为公众心中绝佳的替代粮食和超级食品。
-
-藜麦被认为具有降低胆固醇和体重的作用，2014 年一项针对 35 名女性的调查结果，验证了藜麦的降血脂减体重的作用，但是由于样本数量太小（仅有 35 名参与者），所以结果的普适性遭到质疑。
-不仅如此，藜麦的产量非常低，并且种植条件苛刻：藜麦需要长在日照时间短、温度低的地区，温度稍稍升高，其生长就受到抑制。物以稀为贵，产量低所以售价就高，作为太空粮食，藜麦是不二之选，但作为公众的日常饮食，确实没有必要，因为没有人会单独吃一种食物，藜麦的营养优势，在人类均衡营养的饮食习惯下，其优势性就逐渐减弱了。
-00:00	
+几年后，作为麻省理工大学的研究生，乔伊发现最新的电脑软件还是看不到她。但当她戴上白色面具——那种可以在沃尔玛买到的万圣节新奇道具，识别就很顺利。于是她戴着那个面具完成了项目编程。
+20:16	
