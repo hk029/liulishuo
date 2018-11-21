@@ -1,5 +1,4 @@
-
-# China's 'Useless Edison' combines inventing and the internet, with hilarious results
+# day42 China's 'Useless Edison' combines inventing and the internet, with hilarious results
 中国“无用爱迪生”将发明和网络结合，成果令人捧腹大笑
 ## 原文
 
@@ -51,57 +50,57 @@ Now, his fans are encouraging him to **push** **the** **boundaries**. Some threa
 ----
 ## word
 ### hilarious
-* adj. 引人捧腹大笑的；滑稽的；极有趣的
-	* a hilarious joke
+* . adj. 引人捧腹大笑的；滑稽的；极有趣的
+    * . a hilarious joke
+        * 一个有趣的笑话
 ### dimension
-* n. 方面；部分；维度
-
+* . n. 方面；部分；维度
 ### welder
-* n. 焊工
-
+* . n. 焊工
 ### contraption
-* n. 奇妙装置；新奇玩意儿 
-
+* . n. 奇妙装置；新奇玩意儿
 ### toolshed
-* n. 工具房，工具室
-
+* . n. 工具房，工具室
 ### spawn
-* v. 产生；促成；催生
-	* The new economic freedom has spawned hundreds of new small businesses.
+* . v. 产生；促成；催生
+    * . The new economic freedom has spawned hundreds of new small businesses.
+        * 新的经济自由催生了数百家新的小企业
 ### tinkerer
-* n. 喜欢捣鼓小器具、小发明的人
-
+* . n. 喜欢捣鼓小器具、小发明的人
+* 相关
+    * tin
+        * 罐头
+    * tinker
+        * 本意：补锅工人
+        * 引申
+            * 修补，捣鼓
+            * 能做各种小修小补的人;什么事情都会干一手的人
+            * 笨拙的工人,不熟练的工人
 ### outsize
-* adj. 超大号的；加大码的；极大的
-	* outsize clothes
+* . adj. 超大号的；加大码的；极大的
+* . outsize clothes
 ### quirkiness
-* n. 离奇；古怪；搞怪
-
+* . n. 离奇；古怪；搞怪
 ### inadvertently
-* adv. 无意地；不经意地
-	* I deleted the file inadvertently.
+* . adv. 无意地；不经意地
+    * . I deleted the file inadvertently.
 ### airbrush
-* v. （用喷枪、气笔）修饰，美化
-
-
+* . v. （用喷枪、气笔）修饰，美化
 ### busker
-* n. 街头艺人
-
+* . n. 街头艺人
 ### plaque
-* n. （纪念性的）牌匾；饰板
-
-
- 
+* . n. （纪念性的）牌匾；饰板
+## extend
+### 四大发明
+The Four Great Inventions
+* “造纸术”英文名为“Papermaking”
+* “火药”英文名为“Gunpowder”
+* “活字印刷术”英文名为“ Movable Type Printing Technique”
+* “指南针”英文名为“Compass”
 ## phrases
-
 ### ham it up
-
-* 有意夸张表情（或动作）；表演过火
-	* Dad puts on his Santa suit and hams it up for the kids.
-
-
+* . 有意夸张表情（或动作）；表演过火
+    * . Dad puts on his Santa suit and hams it up for the kids.
+        * 爸爸穿上圣诞老人的衣服，给孩子们做了一套圣诞礼物
 ### push the boundaries
-* 突破界限
-	* 
-* 
-	* 
+* . 突破界限
