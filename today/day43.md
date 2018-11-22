@@ -1,5 +1,4 @@
-# Fantastic Beasts: The Crimes of Grindelwald’: Apocalypse too soon
-
+# day43 Fantastic Beasts: The Crimes of Grindelwald’: Apocalypse too soon
 《神奇动物：格林德沃之罪》：为时过早的末日
 ## 原文
 
@@ -32,88 +31,73 @@ On the page, Rowling is a master storyteller. What occasionally trips her up is 
 
 ----
 ## word
-
 ### apocalypse
-* n. 世界末日
-	* a stock market apocalypse
-
+* . n. 世界末日
+    * . a stock market apocalypse
 ### ascendant
-* adj. （权利，影响）越来越大的
-
+* . adj. （权利，影响）越来越大的
 ### seep
-* v.（液体）渗出，渗漏
-
+* . v.（液体）渗出，渗漏
 ### realm
-* n. 领域，范围
-	* the realm of linguistics
+* . n. 领域，范围
+    * . the realm of linguistics
 ### chockablock
-* adj. 挤得满满的
-	* It was chock-a-block in town today.
+* . adj. 挤得满满的
+    * . It was chock-a-block in town today.
 ### titular
-* adj. 名义上的；（人, 物）被用作标题（或剧名、片名、书名）的
-	* The queen is the titular head of state.
-	* The titular character of a book or movie is the one mentioned in the title.
+* . adj. 名义上的；（人, 物）被用作标题（或剧名、片名、书名）的
+    * . The queen is the titular head of state.
+    * . The titular character of a book or movie is the one mentioned in the title.
 ### eye-catching
-* adj. 惹人注意的
-
+* . adj. 惹人注意的
 ### flashback
-* n. 电影的闪回，倒叙
-
+* . n. 电影的闪回，倒叙
 ### franchise
-* n. （制作或推广系列产品, 尤其是系列影片或电视节目所用的）特许经营品牌
-
+* . n. （制作或推广系列产品, 尤其是系列影片或电视节目所用的）特许经营品牌
 ### nurse
-* v. 照料
-
+* . v. 照料
 ### scurry
-* v. 小步快跑
-	* The mice were scurrying about in the walls.
+* . v. 小步快跑
+    * . The mice were scurrying about in the walls.
+        * 老鼠在墙上乱窜
 ### doing
-* n. 活动；所做的事
-	* the latest doings of stars
+* . n. 活动；所做的事
+    * . the latest doings of stars
+        * 明星们的最新行为
 ### totalitarianism
-* n. 极权主义（totalitarian adj.）
-	* a totalitarian regime (adj.)
-
+* . n. 极权主义（totalitarian adj.）
+    * . a totalitarian regime (adj.)
 ### whirl
-* v.（使）回旋；发晕，（思维）变混乱
-	* Leaves whirled in the wind.
-	* So many thoughts whirled around in her mind.
+* . v.（使）回旋；发晕，（思维）变混乱
+    * . Leaves whirled in the wind.
+    * . So many thoughts whirled around in her mind.
+### behind-the-scenes 
+* 幕后
 ### scatter
-* v. 散开
-	* At the first gunshot, the crowd scattered.
+* . v. 散开
+    * . At the first gunshot, the crowd scattered.
 ### upstage
-* v. 抢...的镜头；使暗淡失色
-	* Lala was upstaged by Daniel in the party.
-	* loosen/loose grip
-	* 放松控制
+* . v. 抢...的镜头；使暗淡失色
+    * . Lala was upstaged by Daniel in the party.
 ### tantalizingly
-* adv. 撩人地；使可望不可及地（tantalize v.）
-	* She still tantalized him. (v.)
-	* The question has long tantalized those thinkers. (v.)
-	* 
-    
+* . adv. 撩人地；使可望不可及地（tantalize v.）
+    * . She still tantalized him. (v.)
+        * 她仍然逗弄他
+    * . The question has long tantalized those thinkers. (v.)
+        * 这个问题一直困扰着这些思想家
+### fond
+* 喜爱的
+## sentences
+### Zouwu upstaging everyone who shares the screen with it
+* 驺吾抢了银幕上其他角色的风头
+### On the page, Rowling is a master storyteller.
+* 写小说时，罗琳讲起故事来技艺高超
 ## phrases
-
 ### an awful lot
-* 相当多
-	* 
-
-
-
-
-
-
-
-
-
-
-
-
+* . 相当多
+*
 ### trip sb up
-* 将...绊倒
-	* Don't trip up on the stairs.,Examiners sometimes try to trip you up on purpose.
-
-
-
-
+* . 将...绊倒
+    * . Don't trip up on the stairs.,Examiners sometimes try to trip you up on purpose.
+### . loosen/loose grip
+* . 放松控制
