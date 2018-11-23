@@ -1,5 +1,4 @@
-
-# Apple and Samsung fined for deliberately slowing down phones
+# day44 Apple and Samsung fined for deliberately slowing down phones
 苹果和三星因故意让手机变慢遭罚款
 ## 原文
 
@@ -63,59 +62,42 @@ Apple and Samsung are being fined €10m and €5m **respectively** in Italy for
 
 ----
 ## word
-
 ### deliberately
-* adv. 故意地
-
+* . adv. 故意地
 ### respectively
-* adv. 分别地
-	* They received a computer and a cell phone respectively as Christmas gifts.
+* . adv. 分别地
+    * . They received a computer and a cell phone respectively as Christmas gifts.
 ### obsolescence
-* n. 过时，报废，作废
-
+* . n. 过时，报废，作废
 ### ruling
-* n. 裁决，裁定
-	* The ruling sets a legal precedent.
+* . n. 裁决，裁定
+    * . The ruling sets a legal precedent.
 ### accusation
-* n. 指控，指责
-
+* . n. 指控，指责
 ### antitrust
-* adj. 反托拉斯的，反垄断的
-
+* . adj. 反托拉斯的，反垄断的
 ### watchdog
-* n. 监管部门，监督人
-
+* . n. 监管部门，监督人
 ### malfunction
-* n. 功能失调；故障
-	* malpractice
-	* malnourishment
-	* malformation
+* . n. 功能失调；故障
+    * . malpractice
+        * 失职
+    * . malnourishment
+        * 营养不良
+    * . malformation
+        * 畸形
 ### render
-* v. 使成为，变得
-	* New technology renders a computer obsolete in a year.
+* . v. 使成为，变得
+    * . New technology renders a computer obsolete in a year.
 ### sluggish
-* adj. 迟钝的，缓慢的
-	* A heavy meal makes me sluggish.
-	* The economy remains sluggish.
+* . adj. 迟钝的，缓慢的
+    * . A heavy meal makes me sluggish.
+    * . The economy remains sluggish.
 ### appeal
-* v. 上诉
-
-* 
-
-    
+* . v. 上诉
 ## phrases
 ### be fined for
-
-* 因...而被罚款
-	* He was fined for breaking the rules.
-
+* . 因...而被罚款
+    * . He was fined for breaking the rules.
 ### request for comment
-
-
-
-
-
-
-
-
-
+* . 征求意见的请求
