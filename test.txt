@@ -1,80 +1,66 @@
-Apple and Samsung fined for deliberately slowing down phones
-苹果和三星因故意让手机变慢遭罚款
-Apple and Samsung are being fined €10m and €5m respectively in Italy for the “planned obsolescence” of their smartphones.
-由于“计划报废”自家生产的智能手机，苹果和三星在意大利分别被处以 1000 万欧元和 500 万欧元的罚款。
-An investigation launched in January by the nation’s competition authority found that certain smartphone software updates had a negative effect on the performance of the devices.
-意大利反垄断部门在 1 月份启动的一项调查发现，某些智能手机软件的更新对设备的性能造成了负面影响。
-Believed to be the first ruling of its kind against smartphone manufacturers, the investigation followed accusations that operating system updates for older phones slowed them down, thereby encouraging the purchase of new phones.
-该调查被认为是第一个针对制造商“计划报废”智能手机的处罚决定。这项调查开始前，有指控称老款手机上操作系统的更新会导致手机变慢，以此来鼓励消费者购买新款手机。
-In a statement the antitrust watchdog said “Apple and Samsung implemented dishonest commercial practices” and that operating system updates “caused serious malfunctions and significantly reduced performance, thus accelerating phones’ substitution”.
-反垄断监管机构在一份声明中表示，“苹果和三星采取了不诚实的商业行为”，同时，操作系统的更新“造成了手机严重的功能失常，显著降低了性能，从而加速了旧手机的替换”。
-It added the two firms had not provided clients adequate information about the impact of the new software “or any means of restoring the original functionality of the products”.
-这份声明补充说道，这两家公司没有向客户提供足够的信息，说明新的操作系统的影响“或任何恢复产品原有功能的手段”。
-Samsung told owners of its Galaxy Note 4 phone to install a new version of Google’s Android operating system intended for the more recent Galaxy Note 7, but which users claimed rendered the old model sluggish.
-三星让“Note 4”型手机使用者安装为更新款手机“Note 7”设计的谷歌安卓新版操作系统，然而使用者声称新版操作系统让“Note 4”手机的速度变慢了。
-Likewise, Apple told iPhone 6 owners to install an operating system designed for the iPhone 7, leading to problems for owners of the older model.
-同样的， 苹果让“iPhone 6”手机用户安装为“iPhone 7”设计的操作系统，导致了老款手机用户的一系列问题。
-The Italian antitrust authority opened its investigation following customer complaints around the same time as a similar probe in France, which has yet to conclude.
-意大利反垄断机构在接到客户的投诉后展开调查。法国也在几乎同一时间展开了类似的调查，该调查尚未得出结论。
-A Samsung spokesperson said the company was disappointed by the decision and intends to appeal the fine: “Samsung did not issue any software update that reduced the Galaxy Note 4’s performance. In contrast, Samsung has always released software updates enabling our customers to have the best experience possible.”
-一位三星发言人表示，该公司对此决定感到失望，并打算对这项处罚提出上诉：“三星没有发布过任何降低‘Note 4’性能的软件更新。与此相反，三星一直在发布能够使我们用户获得尽可能最佳体验的软件更新。”
-Apple did not immediately respond to a request for comment.
-苹果没有立即对此事的评论请求作出回应。
-—————  文章来源 / 卫报 
+Two news anchors at China's state-run news agency aren't human
+中国的官方通讯社多了两名新闻主持“人”
+The news never sleeps, and neither do the two new anchors at China's state-run news agency.
+“新闻永不停息”这句话，可以用在中国官方通讯社的两名新主播身上——它们也从不休息。
+Xinhua News just unveiled what it's calling the world's first news anchors powered by artificial intelligence, at the World Internet Conference Wednesday in China's Zhejiang province. From the outside, they're almost indistinguishable from their human counterparts, crisp-suited and tidy-haired. While Xinhua says the anchors have the "voice, facial expressions and actions of a real person," the robotic anchors relay whatever text is fed to them in stilted speech that sounds less human than Siri or Alexa.
+周三，在中国浙江举行的世界互联网大会上，新华社刚刚发布了这两位由人工智能合成的新闻主播——据称，它们是全球首例 AI 新闻主播。从外表上看，它们西装革履、发式齐整，和人类同事几乎别无二致。虽然新华社声称它们拥有“和真人一样的声音、表情和动作”，但这两名机器人主播只是单纯地复述事先输入好的文本，所用的语音并不自然，仿真度要比 Siri 和 Alexa 更低。
+"I will work tirelessly to keep you informed as texts will be typed into my system uninterrupted," the English-speaking version says in its debut video.
+英文版主播在它首次播报的视频里说：“随着文本持续被输入我的系统，我将一刻不停地为你提供资讯服务。”
+Developed jointly by Xinhua News and Chinese search engine company Sogou.com, the anchors learn from live broadcasting videos and social media and can work "24 hours a day".
+这两位主持人由新华社和中国搜索引擎公司搜狗共同研发而成，它们以新闻直播视频和社交媒体为“学习”素材，并可以“24 小时全天候工作”。
+The AI anchors are both modeled off real journalists at the agency, Qiu Hao and Zhang Zhao, and perform some basic human expressions, like blinking and raising their eyebrows. They can be "endlessly copied" according to the debut video, thus able to cover stories in multiple locations at once.
+两名 AI 主持人分别以新华社的真人记者邱浩和张朝为原形，可以做出人类的一些基本的表情动作，比如眨眼还有抬起眉头。据首播视频的介绍，它们还能用“无数个分身”同时在多个现场提供新闻报道。
+Although the AI-anchors are inexhaustible, they're void of decision-making and processing skills and cannot offer the emotional element given by a real journalist.
+尽管 AI 主播们的精力无穷无尽，它们却没有人类的决策能力和思维能力，也无法带来真人记者的那种真情实感。
+"As an AI news anchor under development, I know there is a lot for me to improve," the English-speaking anchor said in his first sign-off.
+“作为一名处在研发过程中的人工智能新闻主播，我知道我需要改进的地方还有很多。”英文版主播在首次播报结束时说道。
+—————  文章来源 / 华盛顿邮报 
 重点词汇
-be fined for //
-因...而被罚款
+anchor/ˈæŋkər/
+n. 新闻主播
 e.g.
-He was fined for breaking the rules.
-deliberately/dɪˈlɪbərətli/
-adv. 故意地
-respectively/rɪˈspektɪvli/
-adv. 分别地
+He was a TV sports anchor for CCTV5.
+unveil/ˌʌnˈveɪl/
+v. 为……揭幕；首次展示，推出
+indistinguishable/ˌɪndɪˈstɪŋɡwɪʃəbl/
+adj. 无法区分的
+crisp/krɪsp/
+adj.（衣着）挺括，平展的
 e.g.
-They received a computer and a cell phone respectively as Christmas gifts.
-obsolescence/ˌɑːbsəˈlesns/
-n. 过时，报废，作废
-ruling/ˈruːlɪŋ/
-n. 裁决，裁定
+crisp-suited
+teary-eyed
+relay/ˈriːleɪ/
+v. 传达；复述
+stilted/ˈstɪltɪd/
+adj. 生硬的，不自然的
 e.g.
-The ruling sets a legal precedent.
-accusation/ˌækjuˈzeɪʃn/
-n. 指控，指责
-antitrust/ˌæntiˈtrʌst/
-adj. 反托拉斯的，反垄断的
-watchdog/ˈwɑːtʃdɔːɡ/ 
-n. 监管部门，监督人
-malfunction/ˌmælˈfʌŋkʃn/
-n. 功能失调；故障
+We exchanged a few stilted words.
+informed/ɪnˈfɔːrmd/
+adj. 了解情况的
 e.g.
-malpractice
-malnourishment
-malformation
-render/ˈrendər/
-v. 使成为，变得
+informed opinion
+informed consumers
+uninterrupted/ˌʌnˌɪntəˈrʌptɪd/
+adj. 不被打断的，连续的
+be modeled off//
+基于……；以……为原形
+inexhaustible/ˌɪnɪɡˈzɔːstəbl/
+adj.（精力、能量）无穷无尽的
+be void of //
+毫无……
 e.g.
-New technology renders a computer obsolete in a year.
-sluggish/ˈslʌɡɪʃ/
-adj. 迟钝的，缓慢的
-e.g.
-A heavy meal makes me sluggish.
-The economy remains sluggish.
-appeal/əˈpiːl/
-v. 上诉
+a life void of meaning
 拓展内容
-垄断组织的主要形式
+一起来一睹 AI 新闻主播的风采吧！
+
+【流利阅读】人工智能新闻主持人
+
+海底捞的“智慧火锅店”
 
 
-垄断组织是在企业生产集中的基础上产生的。由于在经济发展过程中生产社会化和生产集中的发展程度不同，大型企业之间互相勾结或联合的程度和具体目的也不一样，因而垄断组织便有各种不同的形式。卡特尔、辛迪加、托拉斯是垄断组织最主要的三种形式。
+一提到海底捞，你一定会想到它口碑一流的服务。前段时间，正是这家对你“有求必应，无微不至，嘘寒问暖”的火锅店新开了一家“人工智能餐厅”——10 月 28 日，海底捞斥资 1.5 亿打造的首家“智慧餐厅”在北京中骏世界城开业。
 
-卡特尔（cartel）
-它是生产同类商品的企业为了垄断市场、赚取高额利润，通过签订各种协定（如划分销售区、规定商品产量、确定销售价格等）所组成的垄断联盟。参加卡特尔的企业，要受所订协议的约束，但各企业在生产上、商业上和法律上仍然保持独立。卡特尔只是一种初级形式的垄断组织， 这种形式最早在 1865 年出现于德国。
+这家餐厅里，不仅有机器人传菜和 360 度立体投影沉浸式用餐场景，更可以按个人口味订制锅底，从下单到上菜最快只要 2 分钟，这一切都让那些习惯了人工服务的顾客们大开眼界。
 
-辛迪加（syndicate）
-它是由生产同类商品的各大企业，为了高价销售商品和低价购买原材料，通过签订共同销售商品和采购原材料的协定而建立起来的垄断组织。参加辛迪加的企业在生产上和法律上仍保持独立性，但丧失了商业上的独立性。这种形式 19 世纪末 20 世纪初在西欧比较流行。
-
-托拉斯（trust）
-它是由生产同类商品或者与该类商品有密切联系的许多大企业联合组成的，参加托拉斯的各企业在生产、商业、法律上都不再是独立的生产经营单位，由托拉斯组织董事会及其委任的经理来统一全部经营活动。它是比较稳定和比较高级的垄断组织形式。这种垄断组织形式于 1882 年最先在美国产生，20 世纪初迅速发展。
-
-垄断组织形式的不同，主要是由垄断程度和组织方式的不同决定的。不论何种形式的垄断组织，其本质都是一样的。它们凭借在生产和市场上的垄断地位，对国内外市场上的消费者进行剥削而减少消费者剩余，以获取高额垄断利润。
+餐厅主打的传菜机器人包含送餐、回收餐具、餐间休闲等功能，搭载了全自主定位导航系统，不仅可以智能避障，还能多机协同工作，提高配送效率。非但如此，这些机器人还配备了情感交互系统，具备深度语音识别和语义理解能力，可以通过表情包呈现喜怒哀乐等丰富的模拟表情，实现顾客和机器人的趣味互动。
 00:00	

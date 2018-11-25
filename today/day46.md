@@ -1,5 +1,4 @@
-
-# Two news anchors at China's state-run news agency aren't human
+# day46 Two news anchors at China's state-run news agency aren't human
 中国的官方通讯社多了两名新闻主持“人”
 ## 原文
 
@@ -49,50 +48,38 @@ Although the AI-**anchors** are **inexhaustible**, they're void of decision-maki
 ----
 ## word
 ### anchor
-* n. 新闻主播
-	* He was a TV sports anchor for CCTV5.
+* . n. 新闻主播
+    * . He was a TV sports anchor for CCTV5.
 ### unveil
-* v. 为……揭幕；首次展示，推出
-
+* . v. 为……揭幕；首次展示，推出
+* veil
+    * 面纱
 ### indistinguishable
-* adj. 无法区分的
-
+* . adj. 无法区分的
+* distinguish
+    * 区分
 ### crisp
-* adj.（衣着）挺括，平展的
-	* crisp-suited
-	* teary-eyed
+* . adj.（衣着）挺括，平展的
+    * . crisp-suited
+    * . teary-eyed
 ### relay
-* v. 传达；复述
-
+* . v. 传达；复述
+* 传播
 ### stilted
-* adj. 生硬的，不自然的
-	* We exchanged a few stilted words.
+* . adj. 生硬的，不自然的
+    * . We exchanged a few stilted words.
 ### informed
-* adj. 了解情况的
-	* informed opinion
-	* informed consumers
+* . adj. 了解情况的
+    * . informed opinion
+    * . informed consumers
 ### uninterrupted
-* adj. 不被打断的，连续的
-
-
+* . adj. 不被打断的，连续的
 ### inexhaustible
-* adj.（精力、能量）无穷无尽的
-
-
-​    
+* . adj.（精力、能量）无穷无尽的
 ## phrases
-
-
-
-
-
-
-
-
 ### be modeled off
-* 基于……；以……为原形
-	* 
-
+* . 基于……；以……为原形
+*
 ### be void of
-* 毫无……
-	* a life void of meaning,
+* . 毫无……
+    * . a life void of meaning,
