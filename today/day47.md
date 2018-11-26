@@ -1,5 +1,4 @@
-
-# The new abnormal: California faces the most destructive fire in its history
+# day47 The new abnormal: California faces the most destructive fire in its history
 “新的反常态”：加州面临史上最严重大火
 ## 原文
 
@@ -39,92 +38,75 @@ Putting out the **blazes** is the most immediate task for California, but not th
 ----
 ## word
 ### inferno
-* n. 人间炼狱；火海
-
-### incinerate
-* v. 焚毁
-
-* reduce (sth.) to ash/ashes
-
-* 化为灰烬
-
-
-### flammable
-* adj. 易燃的
-
+* . n. 人间炼狱；火海
+* 相关
+    * hell
+        * 地狱（一般指圣经里跟天堂heaven对应的，不存在于真实世界）
 ### besiege
-* v. 围攻，围困；包围
-	* Our programme has been besieged. 
-	* Kris is besieged by his fans. 
-### ignite
-* v. 点燃
-	* The fires ignited the trees. 
-	* ignite your spirit/imagination
-	* ignite a war
-	* ignite your anger
-### combustible
-* adj. 易燃的；易挑起争端的 (combust v.)
-	* Britain’s domestic politics are combustible. 
+* . v. 围攻，围困；包围
+    * . Our programme has been besieged.
+    * . Kris is besieged by his fans.
 ### abut
-* v. 邻接；毗连
-	* My house abuts the company. 
+* . v. 邻接；毗连
+    * . My house abuts the company.
 ### interface
-* n. 接口；相互联系
-
+* . n. 接口；相互联系
 ### settler
-* n. （尤指来自别国的）移居者，定居者；殖民者
-
+* . n. （尤指来自别国的）移居者，定居者；殖民者
 ### suppress
-* v. 压制，制止
-	* The uprising was suppressed. 
-
+* . v. 压制，制止
+    * . The uprising was suppressed.
 ### brush
-* n. 灌木丛
-
+* . n. 灌木丛
 ### raging
-* adj. 剧烈的；猛烈的（rage n./v.）
-	* I was in a rage and raged at her. 
-	* a raging toothache
-	* a raging temper
-
-
-### blaze
-* n. 大火，烈火
-
+* . adj. 剧烈的；猛烈的（rage n./v.）
+    * . I was in a rage and raged at her.
+    * . a raging toothache
+    * . a raging temper
 ### utility
-* n. （电、煤气、铁路等）公用事业
-
-### spark
-* n. 火花，火星；电火花
-
-* 
-
-    
+* . n. （电、煤气、铁路等）公用事业
+## extend
+### 燃烧相关
+* 火
+    * blaze
+        * . n. 大火，烈火
+    * spark
+        * . n. 火花，火星；电火花
+    * fire
+        * 火焰
+* 易燃的
+    * flammable
+        * . adj. 易燃的
+    * combustible
+        * . adj. 易燃的；易挑起争端的 (combust v.)
+            * . Britain’s domestic politics are combustible.
+* 点燃
+    * ignite
+        * . v. 点燃
+            * . The fires ignited the trees.
+            * . ignite a war
+        * （抽象）点燃，激发
+            * . ignite your spirit/imagination
+            * . ignite your anger
+* 焚毁
+    * incinerate
+        * . v. 焚毁
+    * = reduce (sth.) to ash/ashes
+        * . 化为灰烬
+    * burn to ash
+        * . 化为灰烬
 ## phrases
-
-
 ### on record
-* 记录在案的，有记录的
-	* 
-
-
-
-
-
-
-
-
+* . 记录在案的，有记录的
+*
 ### build-up
-* n. 加强；增大
-	* the build-up of heat
-
-
+* . n. 加强；增大
+    * . the build-up of heat
 ### mega-fire
-* n. 大火，烈火
-	* mega-city
+* . n. 大火，烈火
+    * . mega-city
 ### put out
-* 扑灭；使熄灭
-	* 
+* . 扑灭；使熄灭
+## by HawKeye
 
-
-
+*XMind: ZEN - Trial Version*
