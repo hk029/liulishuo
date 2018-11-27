@@ -1,5 +1,4 @@
-
-# A newly discovered tea plant is caffeine-free
+# day48 A newly discovered tea plant is caffeine-free
 新发现一种不含咖啡因的茶树
 ## 原文
 
@@ -24,7 +23,7 @@ The researchers are now exploring methods to protect Hongyacha in its natural ha
 全世界的人都爱来上一杯茶<u>cuppa</u>。尽管泡一壶茶<u>brew-up</u>只需要区区几克的茶叶，全球每年的茶叶消费量却能达到 300 万吨左右。喝茶有益健康，因为茶叶里的一些化合物<u>compounds</u>可以帮助降低胆固醇<u>cholesterol</u>水平，同时减少心血管<u>cardiovascular</u>疾病的风险。但茶叶也有缺点：它含有咖啡因<u>caffeine</u>，这种物质虽然能够提神醒脑<u>mental alertness</u>，但也能带来焦虑和失眠<u>insomnia</u>等副作用side effect。
 
 
-如果能有一种茶，既不失口感和营养价值，又不含咖啡因或者仅含少量咖啡因，那就很理想<u>agreeable</u>了。来自中国农业科学院茶叶研究所的陈亮和金基强认为，他们已经在自然条件下发现了这个“完美茶种”，这个品种不仅天然地不含咖啡因 <u>caffeine-free</u> ，还特有一系列的药用<u>medicinal</u>化合物——当地人相信，它们对健康大有<u>considerable</u>裨益。]
+如果能有一种茶，既不失口感和营养价值，又不含咖啡因或者仅含少量咖啡因，那就很理想<u>agreeable</u>了。来自中国农业科学院茶叶研究所的陈亮和金基强认为，他们已经在自然条件下发现了这个“完美茶种”，这个品种不仅天然地不含咖啡因 <u>caffeine-free</u> ，还特有一系列的药用<u>medicinal</u>化合物——当地人相信，它们对健康大有<u>considerable</u>裨益。
 
 这种茶树，只生长在中国的一些海拔 700 到 1000 米的高山<u>alpine</u>村落附近。
 
@@ -33,54 +32,41 @@ The researchers are now exploring methods to protect Hongyacha in its natural ha
 ----
 ## word
 ### caffeine
-* n. 咖啡因（decaffeinate v. 脱去……的咖啡因）
-	* For most people, it is probably better to sip decaffeinated tea.
+* . n. 咖啡因（decaffeinate v. 脱去……的咖啡因）
+    * . For most people, it is probably better to sip decaffeinated tea.
 ### cuppa
-* n. （英式口语用法）一杯茶
-	* Would you like a cuppa?
+* . n. （英式口语用法）一杯茶
+    * . Would you like a cuppa?
 ### compound
-* n. 化合物
-
+* . n. 化合物
+    * day5/17
 ### cholesterol
-* n. 胆固醇
-
+* . n. 胆固醇
+    * day40
 ### cardiovascular
-* adj. 心血管的
-	* Cardiovascular diseases are the No. 1 cause of death globally.
+* . adj. 心血管的
+    * . Cardiovascular diseases are the No. 1 cause of death globally.
 ### insomnia
-* n. 失眠（症）（insomniac n. 失眠者）
-
+* . n. 失眠（症）（insomniac n. 失眠者）
 ### agreeable
-* adj. 令人愉悦的；理想的，美好的
-	* It would be agreeable for us Brits to enjoy this type of tea.
+* . adj. 令人愉悦的；理想的，美好的
+    * . It would be agreeable for us Brits to enjoy this type of tea.
 ### medicinal
-* adj. 有疗效的；药用的
-
+* . adj. 有疗效的；药用的
 ### considerable
-* adj. 相当多的；相当大的
-	* Words like sizable and substantial can also mean the same thing as considerable.
+* . adj. 相当多的；相当大的
+    * . Words like sizable and substantial can also mean the same thing as considerable.
 ### alpine
-* adj. 高山的（Alps n. 阿尔卑斯山脉）
-
+* . adj. 高山的（Alps n. 阿尔卑斯山脉）
 ### breed
-* v. 饲养，培育（动植物）
-	* dog breeds (n.)
+* . v. 饲养，培育（动植物）
+    * . dog breeds (n.)
 ### enthusiast
-* n. 爱好者，发烧友（enthusiastic adj.）
-	* I am a movie enthusiast.
-	* I am enthusiastic about making tea.
-	* 
-    
+* . n. 爱好者，发烧友（enthusiastic adj.）
+    * . I am a movie enthusiast.
+    * . I am enthusiastic about making tea.
 ## phrases
-
-
-
-
-
-
-
-
-
-
-
-
+### mental alertness
+* 提神醒脑
+* alertness
+    * 警戒,机敏
