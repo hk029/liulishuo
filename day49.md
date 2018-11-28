@@ -1,5 +1,4 @@
-
-# Becoming a young tycoon? I can only dream...
+# day49  Becoming a young tycoon? I can only dream...
 成为年轻的人生赢家？我只能做梦了……
 ## 原文
 
@@ -44,60 +43,43 @@ Grit, vision and hidden privileges may work for the overachieving few, but the *
 ----
 ## word
 ### broke
-* adj. 一文不名的；破产的
-
-
+* . adj. 一文不名的；破产的
 ### grit
-* n. 砂砾；坚定，决心
-
+* . n. 砂砾；坚定，决心
 ### mobility
-* n. （社会地位或职业间）流动
-	* Urbanization could bring more chances of social mobility.
+* . n. （社会地位或职业间）流动
+    * . Urbanization could bring more chances of social mobility.
 ### stagnate
-* v. 停滞，停止发展
-	* The economic growth has stagnated.
-	* stagnating negotiations
+* . v. 停滞，停止发展
+    * . The economic growth has stagnated.
+    * . stagnating negotiations
 ### austerity
-* n. 经济紧缩
-
+* . n. 经济紧缩
 ### hotshot
-* adj. 特别成功的
-	* hotshot basketball players
-	* hotshot chefs
-
-
+* . adj. 特别成功的
+    * . hotshot basketball players
+    * . hotshot chefs
 ### demoralise
-* v. 使丧失士气，使气馁
-	* The news of defeat has left fans demoralised.
+* . v. 使丧失士气，使气馁
+    * . The news of defeat has left fans demoralised.
 ### odds
-* n. 机会，可能性，局势
-
-* be stacked against
-
-* 成功概率不高；（形势）对......不利
-
+* . n. 机会，可能性，局势
 ### heartthrob
-* n. 出名的美男子
-
-* 
-
-    
+* . n. 出名的美男子
 ## phrases
-
 ### make it
-* 成功；赢得一席之地
-	* We made it.,make it to the semi-final
-
-
-
-
-
+* . 成功；赢得一席之地
+* . We made it.,make it to the semi-final
 ### nigh on
-* 几乎
-	* My homework is nigh on finished.
+* . 几乎
+* . My homework is nigh on finished.
 ### on the flipside
-* 另一方面
-	* 
+* . 另一方面
+*
+### . be stacked against
+* 成功概率不高；（形势）对......不利
+###  beyond the grasp
+* 难以企及
+## by HawKeye
 
-
-
+*XMind: ZEN - Trial Version*
