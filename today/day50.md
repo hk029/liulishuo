@@ -1,5 +1,4 @@
-
-# Defense lawyer suggests a thong equals consent—and Ireland erupts
+# day50 Defense lawyer suggests a thong equals consent—and Ireland erupts
 辩护律师提出穿丁字裤相当于同意性行为，爱尔兰一片哗然
 ## 原文
 
@@ -50,83 +49,59 @@ For decades, Ireland was a socially **conservative** society ruled by the norms 
 ----
 ## word
 ### thong
-* n. 丁字裤
-
+* . n. 丁字裤
 ### erupt
-* v. 突然发生，爆发
-	* a volcano erupts
-	* The crowd erupted when Jeremy Lin scored for the third time
+* . v. 突然发生，爆发
+    * . a volcano erupts
+    * . The crowd erupted when Jeremy Lin scored for the third time
 ### lacy
-* adj. 蕾丝的，网眼状的（lace n.）
-
-
+* . adj. 蕾丝的，网眼状的（lace n.）
 ### jury
-* n. 陪审团
-	* to serve on a jury
+* . n. 陪审团
+    * . to serve on a jury
 ### prosecutor
-* n. 公诉人；原告律师
-
+* . n. 公诉人；原告律师
 ### muddy
-* adj. 泥泞的，多泥的（mud n.）
-	* After walking on the muddy track, my boots became muddy.
+* . adj. 泥泞的，多泥的（mud n.）
+    * . After walking on the muddy track, my boots became muddy.
+### out-rule
+* . v. 排除
+* = rule out
 ### alleyway
-* out-rule
-
-* v. 排除
-
-* n. 小巷，胡同
-	* You need to rule out distractions to focus on the news article.
+* . n. 小巷，胡同
+    * . You need to rule out distractions to focus on the news article.
 ### defendant
-* n. 被告，被告人（defend v., defense n.）
-
+* . n. 被告，被告人（defend v., defense n.）
 ### acquit
-* v. 宣判无罪
-	* acquit sb. (of sth.)
-	* The jury acquitted him of rape.
+* . v. 宣判无罪
+    * . acquit sb. (of sth.)
+    * . The jury acquitted him of rape.
 ### accountability
-* n. 所负的责任（accountable adj.）
-	* Someone must be held accountable for the killings. (adj.)
+* . n. 所负的责任（accountable adj.）
+    * . Someone must be held accountable for the killings. (adj.)
 ### spark
-* v. 引发，触发
-
+* . v. 引发，触发
 ### barrister
-* n. （英国有资格在高等法院出庭的）辩护律师，出庭律师
-
+* . n. （英国有资格在高等法院出庭的）辩护律师，出庭律师
 ### hashtag
-* n. 井号；话题标签
-
+* . n. 井号；话题标签
 ### conservative
-* adj. 保守的，守旧的
-	* the Conservative Party
-	* the Roman Catholic Church
-	* 罗马天主教教会
-
+* . adj. 保守的，守旧的
+    * . the Conservative Party
 ### flourish
-* v. 繁荣，昌盛
-  * Businesses are flourishing in the present economic climate
-
+* . v. 繁荣，昌盛
+    * . Businesses are flourishing in the present economic climate
 ## phrases
-
-
-
 ### closing argument
-* 结案陈词
-	* 
-
-
-
-
-
-
-
-
-
-
-
+* . 结案陈词
+*
 ### take a back seat
-* 处于次要地位，退居二线
-	* 
-
+* . 处于次要地位，退居二线
+*
 ### keep pace
-* 并驾齐驱，齐步并进
-	* My wage increase cannot keep pace with inflation.,
+* . 并驾齐驱，齐步并进
+    * . My wage increase cannot keep pace with inflation.,
+### poured out 
+* . 宣泄
+
+## by HawKeye
