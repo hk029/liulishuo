@@ -1,109 +1,64 @@
-Defense lawyer suggests a thong equals consent—and Ireland erupts
-辩护律师提出穿丁字裤相当于同意性行为，爱尔兰一片哗然
-A criminal trial in Ireland, in which the lawyer of a man accused of rape cited the lacy underwear worn by a woman as a sign of her consent, has ignited outrage across the country and beyond.
-爱尔兰的一次刑事审判中，一名男子被指控强奸一名女性，而他的律师将该女性穿着的蕾丝内裤作为她同意发生性行为的证据。这起审判已经在该国内外引发了愤慨。
-During the closing argument, the defense lawyer asked the jury to consider the underwear worn by the 17-year-old woman at the time prosecutors said she was raped in a muddy alleyway by a 27-year-old man.
-在结案陈词中，辩护律师要求陪审团考虑这名 17 岁女性在事发时所穿内裤。公诉人称，当时，这名 27 岁的男性在一个泥泞的巷子里强暴了她。
-“Does the evidence out-rule the possibility that she was attracted to the defendant and was open to meeting someone and being with someone?” the lawyer asked, according to The Irish Times. “You have to look at the way she was dressed. She was wearing a thong with a lace front.”
-“这则证据有没有排除她对被告有好感，以及她愿意与他人约会并发展恋人关系的可能性？”根据《爱尔兰时报》的报道，该律师问道。“你一定要注意她的衣着。她那时穿着一条正面有蕾丝的丁字裤。”
-The man was acquitted, and the case immediately drew calls for accountability and sparked a national dialogue about consent and victim blaming. Hundreds of women and men with posters and lace underwear in hand protested in five cities across the country on Wednesday.
-这名男性被宣判无罪，但是这起案件马上引发了公众对追究事件责任的呼吁，并触发了一场全国范围内对“同意进行性行为”和“指责受害者”的讨论。周三，数百名男女在爱尔兰的五座城市举着海报和蕾丝内裤参与了抗议。
-“My issue isn’t just the barrister; it’s the system that allows it,” said Mary Crilly, director of the Cork Sexual Violence Center and one of the speakers at the protests.
-爱尔兰科克市性暴力救助中心的负责人、该抗议的演讲者之一玛丽·克丽里说：“我的担忧不仅仅在于辩护律师，而在于允许这种审判产生的制度。”
-Women also poured out their frustration on social media, where they posted photos of colorful underwear with the hashtag #ThisIsNotConsent.
-爱尔兰女性也在社交媒体上宣泄她们的不满。她们发布了彩色内裤的照片，并且带上了 #这不是同意# 的话题。
-For decades, Ireland was a socially conservative society ruled by the norms of the Roman Catholic Church, and women’s rights often took a back seat. In recent years, socially liberal policies have begun to flourish. But as women’s status in society changes, the laws have not always kept pace.
-在过去的几十年间，因受到罗马天主教教会规范的约束，爱尔兰社会曾是保守的，而女性权利常常置于次要地位。最近几年，开放的社会政策开始涌现。但是，在妇女的社会地位产生变化的同时，法律并不一定总能跟上步伐。
-—————  文章来源 / 纽约时报 
+How people think that self-driving cars should behave in an accident?
+自动驾驶汽车在事故中应该保护谁？
+In a paper just published in Nature, a team of psychologists and computer scientists describe a different approach. They created the “Moral Machine”, a website which presents visitors with a series of choices about whom to save and whom to kill.
+在最近发表于《自然》杂志上的一篇论文中，一支由心理学家和计算机科学家组成的团队描述了另一种方法。他们创造了“道德机器”网站。这个网站会给访客展示一系列的选择，从而决定该救谁，该杀谁。
+The strongest preferences, expressed by respondents from all over the world, were for saving human lives over animal ones, preferring to save many rather than few and prioritising children over the old. There were weaker preferences for saving women over men, pedestrians over passengers in the car and for taking action rather than doing nothing. Criminals were seen as literally subhuman—ranking below dogs in the public’s priority list, but above cats. It is easy to imagine the utilitarian argument for preserving the lives of doctors over others. Humanity’s (weak) preference for saving athletes seems less intuitive.
+全世界的答卷人展现出的最明显的倾向是，优先救人类而不是动物的性命，优先救多数而不是少数，优先救孩子而不是老人。以下几种倾向则没有那么明显：救女性而非男性，行人而非车里的乘客，采取行动而非听其自然。罪犯真正意义上地被视为低人一等，在公众的优先级名单上排序低于狗，但是高于猫。优先救医生而非其他人的性命，这背后功利主义的考量并不难想象。但人们（较弱的）优先救运动员的倾向，看起来就没那么容易理解了。
+Many people, says Dr Rahwan, a computer scientist at MIT and one of the paper’s authors, dismiss the trolley problem as a piece of pointless hypothesising that is vanishingly unlikely to arise in real life. He is unconvinced. The specific situations posed by the website may hardly ever occur, he says. But all sorts of choices made by the firms producing self-driving cars will affect who lives and who dies in indirect, statistical ways. He gives the example of overtaking cyclists: “If you stay relatively near to the cycle lane, you’re increasing the chance of hitting a cyclist, but reducing the chance of hitting another car in the next lane over,” he says. “Repeat that over hundreds of millions of trips, and you’re going to see a skew in the [accident] statistics.”
+拉万博士是麻省理工的计算机科学家，也是这篇论文的作者之一，他说许多人不再思考电车问题，将它视为一个没有意义的假说，认为它几乎不可能在现实中出现。拉万并没有被这种看法说服。他说，网站上给出的具体场景可能几乎不会出现，但是生产自动驾驶汽车的公司做的各种各样的抉择会影响到孰生孰死，这种影响是间接的，统计学层面的。他拿赶超骑行者一事举了例子：“如果你相对离自行车道近一些，你就增加了撞到骑行者的几率，但是降低了和旁边车道的另一辆汽车相撞的几率。”他说，“在上亿次旅行中重复这一情况，你就发现事故统计数据的偏态。”
+—————  文章来源 / 经济学人 
 重点词汇
-thong/θɔːŋ/
-n. 丁字裤
-erupt/ɪˈrʌpt/
-v. 突然发生，爆发
+moral/ˈmɔːrəl/
+adj. 道德的
+n. 道德
 e.g.
-a volcano erupts
-The crowd erupted when Jeremy Lin scored for the third time
-lacy/ˈleɪsi/
-adj. 蕾丝的，网眼状的（lace n.）
-closing argument//
-结案陈词
-jury/ˈdʒʊri/
-n. 陪审团
+a moral judgement
+moral codes
+preference/ˈprefrəns/
+n. 偏爱；偏爱的事物；优先选择权
 e.g.
-to serve on a jury
-prosecutor/ˈprɑːsɪkjuːtər/
-n. 公诉人；原告律师
-muddy/ˈmʌdi/
-adj. 泥泞的，多泥的（mud n.）
+a preference for seafood over steak
+choose to eat seafood in preference to steak
+prefer to ... rather than ...//
+宁愿做某事而不做另一件事
 e.g.
-After walking on the muddy track, my boots became muddy.
-alleyway/'ælɪweɪ/
-n. 小巷，胡同
-out-rule
-v. 排除
+prefer to sleep rather than swim
+prioritise ... over ... //
+优先考虑 A 而不是 B
+pedestrian/pəˈdestriən/
+n. 步行者，行人
+literally/ˈlɪtərəli/
+adv. 字面意义地；（夸张）简直
 e.g.
-You need to rule out distractions to focus on the news article.
-defendant/dɪˈfendənt/
-n. 被告，被告人（defend v., defense n.）
-acquit/əˈkwɪt/
-v. 宣判无罪
+His brain was literally turned off.
+I have made literally thousands of phone calls.
+subhuman/ˌsʌbˈhjuːmən/
+adj. 不齿于人类的；低于人类的
 e.g.
-acquit sb. (of sth.)
-The jury acquitted him of rape.
-accountability/əˌkaʊntəˈbɪləti/
-n. 所负的责任（accountable adj.）
-e.g.
-Someone must be held accountable for the killings. (adj.)
-spark/spɑːrk/
-v. 引发，触发
-barrister/ˈbærɪstər/
-n. （英国有资格在高等法院出庭的）辩护律师，出庭律师
-hashtag/ˈhæʃtæɡ/
-n. 井号；话题标签
-conservative/kənˈsɜːrvətɪv/
-adj. 保守的，守旧的
-e.g.
-the Conservative Party
-the Roman Catholic Church
-罗马天主教教会
-take a back seat //
-处于次要地位，退居二线
-flourish/ˈflɜːrɪʃ/
-v. 繁荣，昌盛
-e.g.
-Businesses are flourishing in the present economic climate
-keep pace//
-并驾齐驱，齐步并进
-e.g.
-My wage increase cannot keep pace with inflation.
+Parents regard all game junkies as subhuman.
+utilitarian/ˌjuːtɪlɪˈteriən/
+adj. 功利主义的
+intuitive/ɪnˈtuːɪtɪv/
+adj. 容易理解的
+dismiss/dɪsˈmɪs/
+v. 把…打发走；不再考虑
+the trolley problem//
+电车问题
+hypothesise/haɪˈpɑːθəsaɪz/
+v. 假设，假定
+vanishingly/ˈvænɪʃɪŋlɪ/
+adv. 可以忽略地
+skew/skjuː/
+n. （统计）偏态，偏斜性
 拓展内容
-英文中不同律师的称呼
+Moral Machine 官方网站：
+http://moralmachine.mit.edu/
+有轨电车难题以及现实中的应对方法
 
 
-barrister：英国和部分英联邦国家特有的律师称呼。barrister 又称讼务律师或大律师，有资格独立执行诉讼业务，在法院享有不受限的发言权。
+1967 年，菲力帕·芙特首次提出了“电车难题”。这个思想实验，可以追溯到伯纳德·威廉姆斯提出的枪决原住民问题：假设一位植物学家，有天到一个独裁国家中游玩。当地独裁者逮捕了 20 名无辜的印地安人，以涉嫌叛乱的罪名，将他们全部判处死刑。但是这个独裁者提出一个建议：身为客人，如果这个植物学家亲手枪决其中一个印地安人，其他 19 个人就可以因此被释放。这个植物学家是否应该亲自枪决一位，以拯救其余 19 人，还是拒绝动手，坐视这 20 个人都被枪决？
 
-solicitor：英国和部分英联邦国家特有的律师称呼。solicitor 即普通事务律师，负责处理法律文书、接受诉讼委托等，在法庭上的发言权有限。
+类似的思想实验主要想探讨功利主义和源自康德主义的道德义务论。功利主义认为，为追求对大多数人来说的最大效益，应该牺牲少数人来拯救多数人。康德主义认为，道德应该建立在必要的义务责任上。如果不可以杀人是一种道德义务，就不可以动手让一个人牺牲，即使这个行为的后果是牺牲更多人。
 
-counsel/counsellor：通常在美国使用，是在法庭上对诉讼代理人和公诉人的称呼。在法庭上，法官如果想向诉讼双方提问时，往往会先说一声“counsel”来开头。
-
-attorney：通常在美国使用，指律师及法律代理人，这个词强调一种代理的关系。attorney 有资格在法庭上代表委托人。
-
-lawyer：在美国是 attorney 的同义词，它可以广义地指任何能在法律事务上提供法律建议和帮助的人。
-
-参考链接
-https://www.zhihu.com/question/60229976
-http://www.legaltranz.com/archives/180
-什么是“荡妇羞辱”（slut shaming）？
-
-
-荡妇羞辱指让一名女性为自己的性行为、性欲感到羞耻的行为。这种行为通常偏离了传统的性别期望，或者被认为是不自然、不道德的。女性遭受荡妇羞辱的例子有：衣着性感（违反了工人的着装守则），要求避孕，婚前性行为，从事性工作，被强奸或性骚扰等。
-
-比如，今年夏天，知名媒体人章文被爆出性骚扰作家蒋方舟和媒体人易小荷时，就曾对她们进行荡妇羞辱。他说：“蒋方舟，一直单身，交了众多男朋友；易小荷，离过婚，经常出现在酒局上。” 《新京报》评论员陈迪认为，章文的本质上就是在说，男友多、单身、离过婚就活该被糟蹋。
-
-莱奥拉·坦恩鲍姆在《赫芬顿邮报》的文章中写道，荡妇羞辱是一种性别歧视，因为只有女性会被要求对她们的性欲或涉及性的行为做出检视，而男性则会因为相同的行为而受到褒扬。在美国，老一辈人流传着一句谚语：“男孩就是男孩（Boys will be boys）”。意思是说，男孩与生俱来的阳刚特质让他们可以随意地展现性欲、追求更多的性伴侣。她指出，这句谚语暗含社会的双重标准，表明女性如果有同样的表现，就会被社会看作荡妇。坦恩鲍姆还扩写了这句谚语：“男孩就是男孩，女孩就是荡妇（Boys will be boys, and girls will be sluts）。”
-
-以上内容原载于网络，由流利阅读团队修改编辑。
-参考资料：
-维基百科“荡妇羞辱”词条
-纽约时报《荡妇羞辱：男友多、离过婚就活该被性骚扰？》
+在现实中，遇到类似情况时，司机该做的不是转向，而是刹车。如果刹车失灵是机器故障或维修员失误，而不是司机疏于检查，那对司机来讲是不可抗力。司机尽力找方法刹车仍然没能避免事故的话，司机可以主张自己没有过失，从而避免刑事责任。但是如果司机主动转向而撞死人，就要承担事故产生的过失杀人罪的刑事责任。类似的状况是恐怖分子的要胁。如果顺从恐怖分子会死比较少的人，不顺从会死比较多的人，通常政府不会计算哪一边死的人少，而是拒绝谈判。
 00:00	
