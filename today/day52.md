@@ -1,5 +1,4 @@
-
-# Coping with the 100-year-life society
+# day52 Coping with the 100-year-life society
 如何应对百岁人生社会
 ## 原文
 
@@ -36,3 +35,75 @@ An ageing society need not be a **decrepit** one. As Mr Abe notes, today’s eld
 一个老龄化的社会<u>ageing society</u>不一定是一个年老体衰的<u>decrepit</u>社会。正如安倍指出的，如今的日本老人走路的速度和那些比他们年轻十岁的人一度一样。但要想让日本在变得白发苍苍时仍保持国家的偿债能力<u>solvent</u>，他也必须采取迄今为止<u>thus far</u>更迅速的行动了。
 
 ----
+
+## word
+### prospect
+* n. 前景，展望
+    * . After you graduate top of your class at Harvard, your job prospects look great!
+### pessimist
+* n. 悲观主义者
+    * . optimist
+### soar
+* v. 猛增，骤升
+    * . Fireworks soar into the sky.
+    * . House prices soared a further 50%.
+### pension
+* n. 养老金，抚恤金
+### youngster
+* n. 年轻人；少年，儿童
+### blessing
+* n. 好事，有益之事
+    * . The dishwasher has been a real blessing.
+    * . sb's blessing
+    * . If he gives his permission, then you have my blessing.
+### fulfilling
+* adj. 令人满足的
+    * . a fulfilling career
+### envisage
+* v. 设想，展望
+    * . What level of profit do you envisage?
+### workforce
+* n. 劳动力，劳动大军
+### stunning
+* adj. 令人惊奇的；有魅力的
+### decrepit
+* adj. 衰老的，年久失修
+### solvent
+* adj. 有偿付能力的
+### bold
+* adj 大胆的，厚颜无耻的
+## extend
+### 增加
+* soar
+    * 强调上升的迅速
+    * 本意：翱翔
+* increase
+    * 数量程度的增加
+* grow
+    * 本意：生长
+    * 强调逐步的增加
+* raise
+    * 价格，税，等级等增加
+* boost
+    * 销量，利率，产量的增加（通常指是低于预计）
+* extend
+    * 力量，影响力
+* expand
+    * 一般是指扩大尺度（容量）
+## phrases
+### go bust
+* 崩溃
+### make progress
+* 取得进展
+    * . It's not finished yet, but we are making progress.
+### thus far
+* 迄今为止
+    * We haven't had any problems thus far.
+* 相关
+    * so far
+### stuck in
+* 困于
+### ageing society
+* 老龄化社会
+### health bills
+* 医疗费

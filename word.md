@@ -1,65 +1,78 @@
 
 ## word
-### moral
-#### adj. 道德的
-- a moral judgement
-#### n. 道德
-- moral codes
-### preference
-#### n. 偏爱；偏爱的事物；优先选择权
-- a preference for seafood over steak
-	* choose to eat seafood in preference to steak
+### prospect
+#### n. 前景，展望
+- After you graduate top of your class at Harvard, your job prospects look great!
+### pessimist
+#### n. 悲观主义者
+- optimist
+### soar
+#### v. 猛增，骤升
+- Fireworks soar into the sky.
+	* House prices soared a further 50%.
+### pension
+#### n. 养老金，抚恤金
 
 
-### pedestrian
-#### n. 步行者，行人
+### youngster
+#### n. 年轻人；少年，儿童
 
-### literally
-#### adv. 字面意义地；（夸张）简直
-- His brain was literally turned off.
-	* I have made literally thousands of phone calls.
-### subhuman
-#### adj. 不齿于人类的；低于人类的
-- Parents regard all game junkies as subhuman.
-### utilitarian
-#### adj. 功利主义的
-
-### intuitive
-#### adj. 容易理解的
-
-### dismiss
-#### v. 把…打发走；不再考虑
+### blessing
+#### n. 好事，有益之事
+- The dishwasher has been a real blessing.
+	* sb's blessing
+	* If he gives his permission, then you have my blessing.
+### fulfilling
+#### adj. 令人满足的
+- a fulfilling career
+### envisage
+#### v. 设想，展望
+- What level of profit do you envisage?
+### workforce
+#### n. 劳动力，劳动大军
 
 
-### hypothesise
-#### v. 假设，假定
+### stunning
+#### adj. 令人惊奇的；有魅力的
 
-### vanishingly
-#### adv. 可以忽略地
+### decrepit
+#### adj. 衰老的
 
-### skew
-#### n. （统计）偏态，偏斜性
+### solvent
+#### adj. 有偿付能力的
+
+
+### bold
+#### adj 大胆的，厚颜无耻的
+
 
     
 ## phrases
 
 
-### prefer to ... rather than ...
-#### 宁愿做某事而不做另一件事
-- prefer to sleep rather than swim
-### prioritise ... over ... 
-#### 优先考虑 A 而不是 B
+
+
+### go bust
+#### 崩溃
 - 
 
 
 
 
 
+### make progress
+#### 取得进展
+- It's not finished yet, but we are making progress.
 
-### the trolley problem
-#### 电车问题
+
+
+### thus far
+#### 迄今为止
 - 
 
-
-
+### stuck in
+#### 困于
+- 
+#### We haven't had any problems thus far.
+- 
     

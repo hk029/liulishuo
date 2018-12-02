@@ -32,7 +32,7 @@ const genWordList = text => {
 	lines = text.split("\n");
 	lines.map(line => {
 		if (line === "") return;
-		let reg = /(.*)\s*(\/.*\/)/g;
+		let reg = /(.*?)\s*(\/.*\/)/g;
 		// 判断是单词还是短语
 		if ((ret = reg.exec(line))) {
 			index++;
