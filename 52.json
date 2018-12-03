@@ -1,0 +1,128 @@
+[
+	{
+		"word": "prospect",
+		"pron": "/ˈprɑːspekt/",
+		"type": "word",
+		"explain": [
+			{
+				"ch": "n. 前景，展望",
+				"eg": [
+					"After you graduate top of your class at Harvard, your job prospects look great!"
+				]
+			}
+		]
+	},
+	{
+		"word": "pessimist",
+		"pron": "/ˈpesɪmɪst/",
+		"type": "word",
+		"explain": [{ "ch": "n. 悲观主义者", "eg": ["optimist"] }]
+	},
+	{
+		"word": "soar",
+		"pron": "/sɔːr/",
+		"type": "word",
+		"explain": [
+			{
+				"ch": "v. 猛增，骤升",
+				"eg": [
+					"Fireworks soar into the sky.",
+					"House prices soared a further 50%."
+				]
+			}
+		]
+	},
+	{
+		"word": "pension",
+		"pron": "/ˈpenʃn/",
+		"type": "word",
+		"explain": [{ "ch": "n. 养老金，抚恤金", "eg": [] }]
+	},
+	{
+		"word": "go bust",
+		"type": "phrase",
+		"explain": [{ "ch": "崩溃", "eg": [] }]
+	},
+	{
+		"word": "youngster",
+		"pron": "/ˈjʌŋstər/",
+		"type": "word",
+		"explain": [{ "ch": "n. 年轻人；少年，儿童", "eg": [] }]
+	},
+	{
+		"word": "blessing",
+		"pron": "/ˈblesɪŋ/",
+		"type": "word",
+		"explain": [
+			{
+				"ch": "n. 好事，有益之事",
+				"eg": [
+					"The dishwasher has been a real blessing.",
+					"sb's blessing",
+					"If he gives his permission, then you have my blessing."
+				]
+			}
+		]
+	},
+	{
+		"word": "fulfilling",
+		"pron": "/fʊlˈfɪlɪŋ/",
+		"type": "word",
+		"explain": [{ "ch": "adj. 令人满足的", "eg": ["a fulfilling career"] }]
+	},
+	{
+		"word": "envisage",
+		"pron": "/ɪnˈvɪzɪdʒ/",
+		"type": "word",
+		"explain": [
+			{
+				"ch": "v. 设想，展望",
+				"eg": ["What level of profit do you envisage?"]
+			}
+		]
+	},
+	{
+		"word": "workforce",
+		"pron": "/ˈwɜːrkfɔːrs/",
+		"type": "word",
+		"explain": [{ "ch": "n. 劳动力，劳动大军", "eg": [] }]
+	},
+	{
+		"word": "make progress",
+		"type": "phrase",
+		"explain": [
+			{
+				"ch": "取得进展",
+				"eg": ["It's not finished yet, but we are making progress."]
+			}
+		]
+	},
+	{
+		"word": "stunning",
+		"pron": "/ˈstʌnɪŋ/",
+		"type": "word",
+		"explain": [{ "ch": "adj. 令人惊奇的；有魅力的", "eg": [] }]
+	},
+	{
+		"word": "decrepit",
+		"pron": "/dɪˈkrepɪt/",
+		"type": "word",
+		"explain": [{ "ch": "adj. 衰老的", "eg": [] }]
+	},
+	{
+		"word": "solvent",
+		"pron": "/ˈsɑːlvənt/",
+		"type": "word",
+		"explain": [{ "ch": "adj. 有偿付能力的", "eg": [] }]
+	},
+	{
+		"word": "thus far",
+		"type": "phrase",
+		"explain": [
+			{
+				"ch": "迄今为止",
+				"eg": ["We haven't had any problems thus far."]
+			}
+		]
+	}
+]

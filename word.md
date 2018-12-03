@@ -1,78 +1,62 @@
 
 ## word
-### prospect
-#### n. 前景，展望
-- After you graduate top of your class at Harvard, your job prospects look great!
-### pessimist
-#### n. 悲观主义者
-- optimist
-### soar
-#### v. 猛增，骤升
-- Fireworks soar into the sky.
-	* House prices soared a further 50%.
-### pension
-#### n. 养老金，抚恤金
+### enrol
+#### v. 注册，报名
+- He enrolled in drama school.
+### alas
+#### adv.（表示悲痛或遗憾）哎呀，唉
+- Alas, life is not that simple.
+### sub-Saharan
+#### adj. （非洲）撒哈拉沙漠以南的
 
 
-### youngster
-#### n. 年轻人；少年，儿童
+### scarce
+#### adj. 缺乏的，不足的
+- to allocate scarce resources
+### dump
+#### v. 堆放，扔下
 
-### blessing
-#### n. 好事，有益之事
-- The dishwasher has been a real blessing.
-	* sb's blessing
-	* If he gives his permission, then you have my blessing.
-### fulfilling
-#### adj. 令人满足的
-- a fulfilling career
-### envisage
-#### v. 设想，展望
-- What level of profit do you envisage?
-### workforce
-#### n. 劳动力，劳动大军
+### folly
+#### n. 蠢事，蠢行
+- the follies of youth
+	* the follies of war
+### minimal
+#### adj. 极小的，尽可能少的
 
+### prompt
+#### n. 提示
 
-### stunning
-#### adj. 令人惊奇的；有魅力的
-
-### decrepit
-#### adj. 衰老的
-
-### solvent
-#### adj. 有偿付能力的
+### panacea
+#### n. 万能之计；灵丹妙药
+- Money is not a panacea for all our problems.
+### obsolete
+#### adj. 过时的，废弃的
+- Gas lamps became obsolete when electric lighting was invented.
 
 
-### bold
-#### adj 大胆的，厚颜无耻的
-
-
+### failing
+#### n. 失败；弱点
+- Pride is a terrible failing.
     
 ## phrases
 
 
 
-
-### go bust
-#### 崩溃
+### ed-tech
+#### 教育科技
 - 
 
 
 
 
 
-### make progress
-#### 取得进展
-- It's not finished yet, but we are making progress.
 
 
-
-### thus far
-#### 迄今为止
+### hold ... to account
+#### 让某人承担责任
 - 
+### make up for
+#### 补偿，弥补
+- She tried to make up for lost time by studying extra hard.
 
-### stuck in
-#### 困于
-- 
-#### We haven't had any problems thus far.
-- 
     
