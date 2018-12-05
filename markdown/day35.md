@@ -65,8 +65,6 @@ In a 1965 Esquire poll, Spider-Man and the Incredible Hulk were ranked **alongsi
 * . n. 垃圾
 ### alongside
 * . adv. 与…一起；与…同时
-### crush
-* 
 ## sentences
 ### “With great power there must also come great responsibility”.
 * 能力越大，责任越大

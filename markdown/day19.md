@@ -54,27 +54,27 @@ Some ***Arab dissidents*** ***distrusted*** him because of his close ties with s
 
 ## word
 
-### self-imposed /ˌself ɪmˈpoʊzd/
+### self-imposed
 * adj. 自己决定的，自己规定的
     * self-imposed deadline for finishing the work
-### exile/ˈeɡzaɪl/
+### exile
 * n. 流放，放逐
 * go into exile
 * in exile
-### brutal/ˈbruːtl/
+### brutal
 * adj. 野蛮的，残忍的（brutality n.）
-### eliminate/ɪˈlɪmɪneɪt/
+### eliminate
 * v. 谋杀，干掉
 * eliminate rivals
-### nuisance/ˈnuːsns/
+### nuisance
 * n. 恼人、麻烦的人或物
     * Stop making a nuisance of yourself.
-### de facto /ˌdeɪ ˈfæktoʊ/
+### de facto
 * adj. 事实上的，实际上的
     * English is de facto the common language of the world today. (adv.)
 ### crown prince
 * 王储，皇太子
-### acknowledge /əkˈnɑːlɪdʒ/
+### acknowledge
 * v. 承认；认可
 ### diplomatic consulate
 * 外交领事馆
@@ -127,11 +127,8 @@ Some ***Arab dissidents*** ***distrusted*** him because of his close ties with s
 ### for the cause of
 * 为...事业做出伟大贡献
 * cause
-    *  (支持或为之奋斗的)事业,目标,思想:
-    *    a good cause (= an organization that does good work, such as a charity) 
-        *    崇高的事业 
-    *    fighting for the Republican cause 
-        *    为共和党的事业而奋斗 
+    *  (支持或为之奋斗的)事业,目标,思想: a good cause 崇高的事业 
+    *   fighting for the Republican cause 为共和党的事业而奋斗 
 ### over time
 * = as time  past  by
 ### seek to do sth.

@@ -1,5 +1,4 @@
-
-# Bali resort bans smartphones from poolside to enforce relaxation
+# day56 Bali resort bans smartphones from poolside to enforce relaxation
 为强制放松，巴厘岛某度假村禁止游客在泳池边使用智能手机
 ## 原文
 
@@ -49,3 +48,65 @@ OnePoll 最近对美国度假者<u>holiday-maker</u>进行的一项调查发现�
 然而，阿雅娜度假村的禁用手机政策不太可能受到所有人的欢迎。Travelzoo 最近的另一项调查就发现，在预定<u>booked</u>旅游目的地时，有 30%的受访者<u>respondents</u>都是以其“好作为素材<u>fodder</u>晒到社交媒体”为基准来预定的。
 
 ----
+
+## word
+### resort
+* n. 度假胜地，度假村
+### enforce
+* v. 强迫 （enforced adj.）
+    * . enforce a law
+### detox
+* n. 戒酒，戒毒
+    * . liver detox
+* toxic
+    * 中毒，有毒的
+### forcibly
+* adv. 用强力
+### untether
+* v. 从系绳（或系链）上解下，放开
+* tether
+    * 拴绳
+### compulsively
+* adv. 强迫症般地，禁不住地 （compulsive adj.）
+    * . compulsive behaviour
+### nomophobia
+* n. 无手机焦虑症
+    * . we all suffered from school phobia when we were young.
+* phobia
+    * 恐惧症
+    *  phobia about/of 
+        * 害怕
+### depression
+* n. 抑郁症；抑郁，沮丧（depress v.）
+    * . The wet weather in Shanghai always depresses me.
+    * . the Great Depression
+### holiday-maker
+* n. （外出）度假者
+### surge
+* n. 陡增，剧增，急剧上升
+    * . There has been a surge in house prices recently.
+### inability
+* n. 无能，无力
+### respondent
+* n. （调查/研究中的）受访者，答复者
+### fodder
+* n.（为实现某目的）可利用的人/物；素材
+    * . Celebrities are always good fodder for comedians.
+## phrases
+### put to the test
+* 试验，接受检验
+    * . His theories have never really been put to the test.
+### in a bid to
+* 为了
+* =in order to
+### stare at
+* 凝视，盯着
+### switch off
+* 关闭（开关）；不再理睬
+    * . When I hear the word 'football' I switch off.,switch off by shopping
+### cash in
+* 从中获利/捞到好处
+    * . cash in credit card points for a flight,Logan Paul was being accused of cashing in on the man's death.
+## by HawKeye
+
+*XMind: ZEN - Trial Version*

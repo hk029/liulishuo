@@ -70,5 +70,3 @@ x技术并非万能之计<u>panacea</u>。 传统的优秀教师并不会过时<
 ### make up for
 * 补偿，弥补
     * . She tried to make up for lost time by studying extra hard.
-
-*XMind: ZEN - Trial Version*

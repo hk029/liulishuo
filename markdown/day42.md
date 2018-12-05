@@ -92,11 +92,11 @@ Now, his fans are encouraging him to **push** **the** **boundaries**. Some threa
 * . n. （纪念性的）牌匾；饰板
 ## extend
 ### 四大发明
-The Four Great Inventions
-* “造纸术”英文名为“Papermaking”
-* “火药”英文名为“Gunpowder”
-* “活字印刷术”英文名为“ Movable Type Printing Technique”
-* “指南针”英文名为“Compass”
+* The Four Great Inventions
+    * “造纸术”英文名为“Papermaking”
+    * “火药”英文名为“Gunpowder”
+    * “活字印刷术”英文名为“ Movable Type Printing Technique”
+    * “指南针”英文名为“Compass”
 ## phrases
 ### ham it up
 * . 有意夸张表情（或动作）；表演过火

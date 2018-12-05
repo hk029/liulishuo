@@ -1,4 +1,4 @@
-# In Italy, ‘al dente’ is prized. In Taiwan, it’s all about food that’s ‘Q.’
+# day30 In Italy, ‘al dente’ is prized. In Taiwan, it’s all about food that’s ‘Q.’
 在意大利，“有嚼劲”被视为珍宝；在台湾，它与一切“Q”的食物有关
 ## 原文
 

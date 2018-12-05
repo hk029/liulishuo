@@ -167,6 +167,7 @@ ${words
 			const { word, explain, type } = w;
 			if (type === "phrase") {
 				let text = `### ${word}\n`;
+				console.log(w);
 				text += explain
 					.map(e => {
 						let tmp = "";

@@ -1,4 +1,4 @@
-# Day28 Recording of mother's voice more effective than smoke alarm, study finds
+# day28 Recording of mother's voice more effective than smoke alarm, study finds
 研究发现，妈妈声音的录音比烟雾警报还有效
 ## 原文
 

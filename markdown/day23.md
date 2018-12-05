@@ -114,11 +114,8 @@ Hong Kong chief executive Carrie Lam issued a statement expressing "deep sorrow"
 ### depic
 * 描绘
 ## phrase
-
 ### Chinese-speaking world.
-
-- 华人世界
-
+* 华人世界
 ## extend
 ### 哀悼相关
 * R.I.P
