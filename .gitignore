@@ -7,7 +7,7 @@ package-lock.json
 log
 logs
 dist/
-days.xmind
+*.xmind
 
 ./post.js
 
