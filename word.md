@@ -1,80 +1,83 @@
 
 ## word
-### resort
-#### n. 度假胜地，度假村
+### bow
+#### n. 弓；鞠躬 （bow v.）
+- to bow to sb （v.）
+	* to take a bow
+	* to bow and scrape （v.）
+	* It's embarrassing to see people bowing and scraping to the new CEO. （v.）
+	* Draw not your bow till your arrow is fixed.
+### remote
+#### adj. 遥远的，疏远的
+- a remote village
+	* in the remote past/future
+	* a remote cousin
+	* a remote manner
+### kayak
+#### n. 皮艇
 
-### enforce
-#### v. 强迫 （enforced adj.）
-- enforce a law
+
+### sealed-off
+#### adj. 封闭的，隔离的
+- to seal an envelope（v.）
+### inhabit
+#### v. （人）居住，（动物）栖居
+
+### enigmatic
+#### adj. 神秘的，费解的
+- an enigmatic smile
+### isolated
+#### adj. 孤立的，分离的
+- an isolated house
+	* an isolated patient
+### tribe
+#### n. 部落，宗族
+
+### interaction
+#### n. 交流，来往（interact v.）
+- the interaction between teacher and student
+### sentinel
+#### n. 哨兵
 
 
+### tribesman
+#### n. 部落居民
 
-### detox
-#### n. 戒酒，戒毒
-- liver detox
-### forcibly
-#### adv. 用强力
+### misplaced
+#### adj. 错误的，不合时宜的
 
-### untether
-#### v. 从系绳（或系链）上解下，放开
 
-### compulsively
-#### adv. 强迫症般地，禁不住地 （compulsive adj.）
-- compulsive behaviour
-
-### nomophobia
-#### n. 无手机焦虑症
-- we all suffered from school phobia when we were young.
-### depression
-#### n. 抑郁症；抑郁，沮丧（depress v.）
-- The wet weather in Shanghai always depresses me.
-	* the Great Depression
-### holiday-maker
-#### n. （外出）度假者
-
-### surge
-#### n. 陡增，剧增，急剧上升
-- There has been a surge in house prices recently.
-
-### inability
-#### n. 无能，无力
-
-### respondent
-#### n. （调查/研究中的）受访者，答复者
-
-### fodder
-#### n.（为实现某目的）可利用的人/物；素材
-- Celebrities are always good fodder for comedians.
+### bestow
+#### v. 赠与，授予
+- to bestow an honour on sb
+	* to bestow sb with sth
+### forbidden
+#### adj. 被禁止的（forbid v.）
+- Photography is forbidden in the museum.
+	* it is forbidden to do sth
     
 ## phrases
 
 
-### put to the test
-#### 试验，接受检验
-- His theories have never really been put to the test.
-### in a bid to
-#### 为了
-- 
-#### =in order to
-- 
-### stare at
-#### 凝视，盯着
+
+### set foot on
+#### 进入、踏上
 - 
 
 
 
 
-### switch off
-#### 关闭（开关）；不再理睬 
-- When I hear the word 'football' I switch off.,switch off by shopping
 
 
 
+### push ahead
+#### （坚定地）继续前行
+- to push ahead with,The government have decided to push ahead with its reform programme.
 
-### cash in
-#### 从中获利/捞到好处
-- cash in credit card points for a flight,Logan Paul was being accused of cashing in on the man's death.
 
+### off limits
+#### adj. 禁止入内的
+- The site is off limits to the public.,Cream cleansers are off limits for oily skin.,convert（sb）to,转变，改变某人的信仰,a convert to Catholicism （n.）
 
 
     

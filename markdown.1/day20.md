@@ -2,8 +2,6 @@
 
 超级百万的头奖进入“未知领域”，奖金创纪录高达 16 亿美元
 
-syff
-
 ## 原文
 
 Yes, that headline is correct: The Mega Millions jackpot is ***at*** \$1.6 billion. With a B.
